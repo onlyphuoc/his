@@ -1,0 +1,15 @@
+﻿1.0.0.0	Nguyễn Văn Thắng
+	- Thêm mới API viện phí.
+1.0.0.1	Nguyễn Văn Thắng
+	- clsBLL sửa lại load chi phí của bệnh nhân nội trú trong hàm Load_ChiPhi.
+
+1.0.0.2	Nguyễn Văn Thắng
+	- clsBLL sửa lại load chi phí của bệnh nhân theo bảng giá mới nhất đang áp dụng.
+E00_API_VienPhi	1.0.0.3	Nguyễn Văn Thắng
+	- clsBLL sửa lại load chi phí đã thanh toán của bệnh nhân.
+E00_API_VienPhi: 1.0.0.4 - (01/08/2018 17:41:40 PM) - Nguyễn Văn Thắng - 01/08/2018 17:42:04 PM
+- Sửa load combobox ngày vào viện.
+E00_API_VienPhi: 1.0.0.8 - (18/09/2018 16:24:39 PM) - Nguyễn Văn Thắng - 18/09/2018 16:24:55 PM
+- Sửa lại hàm load chi phí
+E00_API_VienPhi: 1.0.0.9 - (19/09/2018 17:55:35 PM) - Nguyễn Văn Thắng - 19/09/2018 17:56:31 PM
+- Sủa lại load báo cáo công nợ bệnh nhân.

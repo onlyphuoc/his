@@ -1,0 +1,7 @@
+VienPhiExtension: 1.0.0.1 - (03/08/2018 15:12:55 PM) - Nguyễn Văn Thắng - 03/08/2018 15:14:18 PM
+- Bổ sung bảng BC_CONGNOLL và BC_CONGNOCT
+
+VienPhiExtension: 1.0.0.4 - (19/09/2018 17:40:25 PM) - Nguyễn Văn Thắng - 19/09/2018 17:42:44 PM
+- Bổ sung field Email trong btdbn
+VienPhiExtension: 1.0.0.5 - (08/10/2018 17:36:26 PM) - Nguyễn Văn Thắng - 08/10/2018 17:36:36 PM
+-- Thêm cột NGAY, THANG, NAM vào bảng V_CHINHSACHGIAKMCT

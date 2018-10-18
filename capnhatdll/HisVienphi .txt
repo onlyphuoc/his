@@ -1,0 +1,64 @@
+﻿HISVienphi	1.0.0.1 - Nguyễn Văn Thắng
+ 	- Form hoàn hóa đơn, khi hoàn hóa đơn nội trú thì hoàn luôn các hóa đơn liên quan.
+HISVienphi	1.0.0.2 - Nguyễn Văn Thắng
+ 	- frmVienphi thêm điều kiện để bệnh nhân nội trú ra ngoài thanh toán thì không lấy lên chi phí.
+ 	- frmDMGiaVienPhi sửa lại giao diện theo yêu cầu của triển khai.
+ 	- frmChonvpct bổ sung thêm form chọn viện phí chi tiết.
+ 	- frmGoivpct bổ sung thêm form gói viện phí chi tiết.
+HISVienphi	1.0.0.3 - Nguyễn Văn Thắng
+ 	- frmVienphi_TTRV fix lại lỗi lưu hóa đơn -1.
+HISVienphi	1.0.0.4 - Nguyễn Văn Thắng
+ 	- frmVienphi fix lỗi không nhảy hóa đơn của biên lai dịch vụ
+ 	- frmVienphi_TTRV fix lỗi không nhảy hóa đơn của biên lai dịch vụ
+HISVienphi	1.0.0.5 - Nguyễn Văn Thắng
+ 	- frmHoantra fix lỗi không hoàn trả được hóa đơn nội trú.
+HISVienphi	1.0.0.6 - Nguyễn Văn Thắng
+ 	- frmVienphi fix lỗi không lấy lên được chi phí của bệnh nhân điều trị trong ngày.
+ 	- frmVienphi_TTRV  fix lỗi lưu hóa đơn -1 đã lưu nhưng trên màn hình không nhảy -1 theo phiếu.
+ 	- usc_TraCuuChiPhi thêm mặc định focus vào txt mã bệnh nhân.
+ 	- usc_TraCuuChiPhi thêm timer đặt thời gian 30s để reset lại các giá trị trên form.
+HISVienphi	1.0.0.7 - Nguyễn Văn Thắng
+ 	- usc_TraCuuChiPhi sửa lỗi tìm bệnh nhân bị chậm.
+ 	- frmVienphi_TTRV  sửa lỗi khi lưu hóa đơn -1 thì không update lại thông tin quyển sổ.
+ 	- frmVienphi  sửa lại giao diện tăng độ rộng trường " tên viện phí" trên lưới.
+HISVienphi	1.0.0.8 - Nguyễn Văn Thắng
+ 	- usc_TraCuuChiPhi sửa lỗi định dạng tiền.
+HISVienphi	1.0.0.9 - Nguyễn Văn Thắng
+ 	- frmVienphi sửa lỗi lấy cả những hóa đơn thu rồi bên nội trú lên.
+HISVienphi	1.0.1.0 - Nguyễn Văn Thắng
+ 	- frmVienphi sửa lỗi lấy cả những hóa đơn thuốc F9(thuốc nội trú) bên nội trú lên.
+HISVienphi	1.0.1.1 - Nguyễn Văn Thắng
+ 	- frmVienphi sửa lỗi lấy cả tạm ứng bên nội trú vào tiền tạm ứng bên form ngoại trú.
+HISVienphi	1.0.1.2 - Nguyễn Văn Thắng
+ 	- frmTimhoadon thể hiện số tiền có dấu phân cách phân biệt hàng đơn vị và hàng nghìn.
+ 	- frmHoantra fix lỗi hoàn lần đầu rồi vẫn có thể hoàn lại lần 2.
+ 	- frmVienphi  fix lỗi không load được thuốc tủ trực lên.
+ 	- frmVienphi_TTRV fix lỗi không lưu được thông tin hóa đơn tạm ứng.
+ 	- frmThanhToanPOS fix lỗi chênh lệch tiền hàng đơn vị.
+HISVienphi	1.0.1.3 - Nguyễn Văn Thắng
+ 	- frmHoantra sửa lại khi phục hồi hóa đơn nội trú sẽ phục hồi luôn những hóa đơn liên quan.
+HISVienphi	1.0.1.4 - Nguyễn Văn Thắng
+ 	- frmVienphi sửa lại chức năng thu viện phí của bệnh nhân không qua tiếp đón.
+	- frmVienphi Tab Lịch sử khám bệnh thêm chi tiết công nợ của bệnh nhân.
+HISVienphi	1.0.1.5 - Nguyễn Văn Thắng
+ 	- usc_TraCuuChiPhi lấy lại chi phí và công nợ của bệnh nhân.
+HISVienphi	1.0.1.6 - Nguyễn Văn Thắng
+ 	- frmThutamung thêm option cảnh báo công nợ bệnh nhân nội trú ngoại trú.
+HISVienphi	1.0.1.7 - Nguyễn Văn Thắng
+ 	- frmVienphi lấy lại số tiền tạm ứng nút in hóa đơn.
+	- frmVienphi  fix lỗi load chi phí bệnh nhân nội trú có toa thuốc mua ngoài.
+HISVienphi	1.0.1.8 - Nguyễn Văn Thắng
+ 	- frmVienphi fix lỗi thêm chi tiết viện phí của bệnh nhân không qua tiếp đón.
+HISVienphi	1.0.1.9 - Nguyễn Văn Thắng
+ 	- frmVienphi_TTRV thêm chức năng rút tiền qua ngân hàng cho bệnh nhân.
+HISVienphi	1.0.2.0 - Nguyễn Văn Thắng
+ 	- frmVienphi_TTRV bắt try catch khi mở kết nối ngân hàng.
+HISVienphi	1.0.2.1 - Nguyễn Văn Thắng
+ 	- frmThutamung thêm in biên nhận thu ký quỹ.
+HISVienphi	1.0.2.2 - Nguyễn Văn Thắng
+ 	- frmVienphi fix lỗi bệnh nhân trái tuyến thanh toán viện phí.
+HISVienphi	1.0.2.3 - Nguyễn Văn Thắng
+ 	- frmVienphi fix lỗi load ngày vào viện của bệnh nhân.
+	
+ 
+

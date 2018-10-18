@@ -1,0 +1,4 @@
+﻿1.0.0.1 Bùi Văn Hưởng
+	- Cập nhật lại E00_Base.
+LichTruc - 1.0.0.2 Bùi Văn Hưởng
+	- Sửa lỗi không hiển thị được lịch làm việc của nhân viên khi thêm mới.

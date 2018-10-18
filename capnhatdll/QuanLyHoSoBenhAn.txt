@@ -1,0 +1,10 @@
+﻿1.0.0.2: Nguyễn Quốc Vạn
+	 Form: frmhsluutru
+	 Fix: Lỗi không thể chọn ngày vào viện của bệnh nhân. 
+
+QunaLyHoSoBenhAn 1.0.0.3: Nguyễn Quốc Vạn
+	 - Form: frmhsluutru Fix: đổi cách lưu số lưu trữ. 
+QuanLyHoSoBenhAn: 1.0.0.5 - (21/09/2018 11:41:05 AM) - Nguyễn Quốc Vạn - 21/09/2018 16:51:48 PM
+Thay số lưu trữ khi lưu hs
+QuanLyHoSoBenhAn: 1.0.0.6 - (08/10/2018 17:33:44 PM) - Nguyễn Quốc Vạn - 08/10/2018 17:34:58 PM
+Lấy thêm ICD tử vong đối với bệnh nhân tử vong

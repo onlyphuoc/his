@@ -1,0 +1,33 @@
+﻿HISNoiTru: 1.0.0.2 - (27/07/2018 08:23:01 AM) - Nguyễn Thanh Tín - 27/07/2018 11:24:23 AM
+- Form nhập viện + nhập khoa mới
+
+HISNoiTru: 1.0.0.3 - (27/07/2018 11:39:46 AM) - Nguyễn Thanh Tín - 27/07/2018 11:48:34 AM
+- Chỉnh sửa lỗi
+HISNoiTru: 1.0.0.4 - (27/07/2018 11:39:46 AM) - Nguyễn Thanh Tín - 27/07/2018 13:41:48 PM
+- Sửa lỗi nhập khoa
+HISNoiTru: 1.0.0.5 - (27/07/2018 11:39:46 AM) - Nguyễn Thanh Tín - 27/07/2018 17:22:37 PM
+- Chỉnh sửa thông tin nhập viên
+HISNoiTru: 1.0.0.6 - (30/07/2018 17:14:30 PM) - Nguyễn Thanh Tín - 30/07/2018 17:14:50 PM
+- Sửa lỗi
+HISNoiTru: 1.0.0.7 - (01/08/2018 12:23:16 PM) - Nguyễn Thanh Tín - 01/08/2018 12:24:48 PM
+- Sủa Lỗi Nhập viện
+HISNoiTru: 1.0.0.8 - (02/08/2018 15:37:01 PM) - Nguyễn Thanh Tín - 02/08/2018 15:37:30 PM
+-Cập nhât dll control
+HISNoiTru: 1.0.0.9 - (02/08/2018 17:20:41 PM) - Nguyễn Thanh Tín - 02/08/2018 17:21:50 PM
+- Cập nhật Du tru
+HISNoiTru: 1.0.0.12 - (04/08/2018 08:54:33 AM) - Nguyễn Thanh Tín - 04/08/2018 09:23:12 AM
+TinNT sửa lỗi form nhập viện
+HISNoiTru: 1.0.0.10 - (04/08/2018 09:25:37 AM) - Nguyễn Thanh Tín - 04/08/2018 09:28:27 AM
+- Chỉnh giao diện form nhập viện
+HISNoiTru: 1.0.0.11 - (06/08/2018 09:42:29 AM) - Nguyễn Thanh Tín - 06/08/2018 09:46:14 AM
+- Cập nhật mới cho chắc ăn
+HISNoiTru: 1.0.0.12 - (06/08/2018 10:18:43 AM) - Nguyễn Thanh Tín - 06/08/2018 10:21:19 AM
+- tự bill DLL nên cập nhật lại
+HISNoiTru: 1.0.0.13 - (06/08/2018 10:22:24 AM) - Nguyễn Thanh Tín - 06/08/2018 10:45:41 AM
+- Cập nhật thông báo mới
+HISNoiTru: 1.0.0.14 - (08/08/2018 08:51:38 AM) - Nguyễn Thanh Tín - 08/08/2018 08:53:43 AM
+- Caph nhật nội trú
+HISNoiTru: 1.0.0.15 - (08/08/2018 09:09:43 AM) - Nguyễn Thanh Tín - 08/08/2018 09:12:35 AM
+- Cập nhật size min form
+HISNoiTru: 1.0.0.23 - (18/09/2018 10:00:01 AM) - Nguyễn Thanh Tín - 19/09/2018 09:35:49 AM
+- Cập nhật form Config 

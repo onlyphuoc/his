@@ -1,0 +1,19 @@
+﻿2.0.0.3: Nguyễn Văn Long (Long dài)
+	- frm_DanhMucChung form dùng chung cho các danh mục sử dụng bảng sys_danhmuc
+	- frm_ImportDanhMuc form dùng để import dữ liệu cho các danh mục chung sử dụng copy Excel
+
+2.0.0.4: Nguyễn Văn Long (Long dài)
+	- Sửa usc_ImportDanhMuc cho phép insert số thứ tự theo dữ liệu hiện có trong danh mục
+
+2.0.0.5: Nguyễn Văn Long (Long dài)
+	- Thêm frm_CauHinhMauIn cho dùng để cấu hình mẫu in theo dữ liệu khai báo động
+
+2.0.0.6: Nguyễn Văn Long (Long dài)
+	- Sửa tham chiếu E00_Model cho DLL E00_Base
+
+2.0.0.7: Nguyễn Văn Long (Long dài)
+	- Sửa frm_CauHinhMauIn  public txtTen (Tên report)
+E00_Base: 2.0.0.9 - (03/08/2018 13:47:43 PM) - Nguyễn Văn Long - 03/08/2018 13:50:59 PM
+Thêm frm_BaoCao sử dụng chung cho các form báo cáo
+E00_Base: 2.0.0.10 - (08/08/2018 09:31:47 AM) - Nguyễn Văn Long - 08/08/2018 09:33:31 AM
+Sửa thông báo chuẩn

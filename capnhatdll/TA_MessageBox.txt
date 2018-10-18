@@ -1,0 +1,5 @@
+TA_MessageBox: 1.0.1.0 - (06/08/2018 10:15:15 AM) - Nguyễn Văn Long - 06/08/2018 10:16:20 AM
+Thay đổi giao diện hiển thị thông báo.
+
+TA_MessageBox: 1.0.1.1 - (06/08/2018 14:28:32 PM) - Nguyễn Văn Long - 06/08/2018 14:29:50 PM
+Sửa giao diện hiển thị thông báo

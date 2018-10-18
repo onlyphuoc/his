@@ -1,0 +1,6 @@
+1.0.0.1
+	- sửa lỗi model và lỗi sử dụng api update ko được sửa thành api.updateall
+BaoDong: 1.0.0.2 - (12/06/2018 09:05:40 AM) - Phạm Thế Mỹ - 03/08/2018 10:06:02 AM
+- cập nhật báo động
+BaoDong: 1.0.0.3 - (06/08/2018 10:36:18 AM) - Phạm Thế Mỹ - 06/08/2018 10:38:50 AM
+- cập control TA_MessageBox mới

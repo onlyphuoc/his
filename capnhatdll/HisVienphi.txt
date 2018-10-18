@@ -1,0 +1,116 @@
+﻿1.0.0.1 - Nguyễn Văn Thắng
+ 	- Form hoàn hóa đơn, khi hoàn hóa đơn nội trú thì hoàn luôn các hóa đơn liên quan.
+
+1.0.0.2 - Nguyễn Văn Thắng
+ 	- frmVienphi thêm điều kiện để bệnh nhân nội trú ra ngoài thanh toán thì không lấy lên chi phí.
+	- frmDMGiaVienPhi sửa lại giao diện theo yêu cầu của triển khai.
+ 	- frmChonvpct bổ sung thêm form chọn viện phí chi tiết.
+ 	- frmGoivpct bổ sung thêm form gói viện phí chi tiết.
+
+1.0.0.3 - Nguyễn Văn Thắng
+ 	- frmVienphi_TTRV fix lại lỗi lưu hóa đơn -1.
+
+1.0.0.4 - Nguyễn Văn Thắng
+ 	- frmVienphi fix lỗi không nhảy hóa đơn của biên lai dịch vụ
+ 	- frmVienphi_TTRV fix lỗi không nhảy hóa đơn của biên lai dịch vụ
+
+1.0.0.5 - Nguyễn Văn Thắng
+ 	- frmHoantra fix lỗi không hoàn trả được hóa đơn nội trú.
+
+1.0.0.6 - Nguyễn Văn Thắng
+ 	- frmVienphi fix lỗi không lấy lên được chi phí của bệnh nhân điều trị trong ngày.
+ 	- frmVienphi_TTRV  fix lỗi lưu hóa đơn -1 đã lưu nhưng trên màn hình không nhảy -1 theo phiếu.
+ 	- usc_TraCuuChiPhi thêm mặc định focus vào txt mã bệnh nhân.
+ 	- usc_TraCuuChiPhi thêm timer đặt thời gian 30s để reset lại các giá trị trên form.
+
+1.0.0.7 - Nguyễn Văn Thắng
+ 	- usc_TraCuuChiPhi sửa lỗi tìm thông tin khám bệnh của bệnh nhân bị chậm.
+ 	- frmVienphi_TTRV  sửa lỗi khi lưu hóa đơn -1 thì không tăng số biên lai
+ 	- frmVienphi  sửa lại giao diện tăng độ rộng trường " tên viện phí" trên lưới.
+
+1.0.0.8 - Nguyễn Văn Thắng
+ 	- usc_TraCuuChiPhi sửa lỗi định dạng tiền.
+
+1.0.0.9 - Nguyễn Văn Thắng
+ 	- frmVienphi sửa lỗi lấy cả những hóa đơn thu rồi bên nội trú lên.
+
+1.0.1.0 - Nguyễn Văn Thắng
+ 	- frmVienphi sửa lỗi lấy cả những hóa đơn thuốc F9(thuốc nội trú) bên nội trú lên.
+
+1.0.1.1 - Nguyễn Văn Thắng
+	- frmVienphi sửa lỗi lấy cả tạm ứng bên nội trú vào tiền tạm ứng bên form ngoại trú.
+
+1.0.1.2 - Nguyễn Văn Thắng
+ 	- frmTimhoadon thể hiện số tiền có dấu phân cách phân biệt hàng đơn vị và hàng nghìn.
+ 	- frmHoantra fix lỗi hoàn lần đầu rồi vẫn có thể hoàn lại lần 2.
+ 	- frmVienphi  fix lỗi không load được thuốc tủ trực lên.
+	- frmVienphi_TTRV fix lỗi không lưu được thông tin hóa đơn tạm ứng.
+ 	- frmThanhToanPOS fix lỗi chênh lệch tiền hàng đơn vị.
+
+HisVienPhi - 1.0.1.3 - Nguyễn Văn Thắng
+ 	- frmHoantra sửa lại khi phục hồi hóa đơn nội trú sẽ phục hồi luôn những hóa đơn liên quan.
+
+HisVienPhi - 1.0.1.4 - Nguyễn Văn Thắng
+ 	- frmVienphi sửa lại chức năng thu viện phí của bệnh nhân không qua tiếp đón.
+	- frmVienphi Tab Lịch sử khám bệnh thêm chi tiết công nợ của bệnh nhân.
+
+1.0.1.5 - Nguyễn Văn Thắng
+ 	- usc_TraCuuChiPhi lấy lại chi phí và công nợ của bệnh nhân.
+1.0.1.6 - Nguyễn Văn Thắng
+ 	- frmThutamung thêm option cảnh báo công nợ bệnh nhân nội trú ngoại trú.
+1.0.1.7 - Nguyễn Văn Thắng
+ 	- frmVienphi lấy lại số tiền tạm ứng nút in hóa đơn.
+	- frmVienphi  fix lỗi load chi phí bệnh nhân nội trú có toa thuốc mua ngoài.
+HISVienphi 1.0.1.8 - Nguyễn Văn Thắng
+ 	- frmVienphi fix lỗi thêm chi tiết viện phí của bệnh nhân không qua tiếp đón.
+HISVienphi 1.0.1.9 - Nguyễn Văn Thắng
+ 	- frmVienphi_TTRV thêm chức năng rút tiền qua ngân hàng cho bệnh nhân.
+HISVienphi	1.0.2.0 - Nguyễn Văn Thắng
+ 	- frmVienphi_TTRV bắt try catch khi mở kết nối ngân hàng.
+HISVienphi 1.0.2.1 - Nguyễn Văn Thắng
+ 	- frmThutamung thêm in biên nhận thu ký quỹ.
+HISVienphi 1.0.2.2 - Nguyễn Văn Thắng
+ 	- frmVienphi fix lỗi bệnh nhân trái tuyến thanh toán viện phí.
+HISVienphi: 1.0.2.6 - (31/07/2018 10:12:39 AM) - Nguyễn Văn Thắng - 31/07/2018 10:13:27 AM
+- Thanh toán POS cảnh báo chọn hình thức thanh toán cho người dùng.
+HISVienphi: 1.0.2.7 - (02/08/2018 15:14:21 PM) - Nguyễn Văn Thắng - 02/08/2018 15:17:02 PM
+- Form ngoại trú fix lỗi không update được trạng thái của chỉ định của những hóa đơn treo tháng trước.
+HISVienphi: 1.0.2.8 - (04/08/2018 10:29:32 AM) - Nguyễn Văn Thắng - 04/08/2018 10:31:11 AM
+- Form in hóa đơn fix lỗi cannot table 0
+HISVienphi: 1.0.3.9 - (18/09/2018 16:20:21 PM) - Nguyễn Văn Thắng - 18/09/2018 16:22:33 PM
+- Sửa lại tra cứu thông tin bệnh nhân.
+- Thêm in hóa đơn điện tử cho form thu ngoại trú và thu nội trú.
+HISVienphi: 1.0.4.0 - (19/09/2018 17:40:07 PM) - Nguyễn Văn Thắng - 19/09/2018 17:42:17 PM
+- Cập nhật lại URL server hóa đơn điện tử
+HISVienphi: 1.0.4.1 - (20/09/2018 17:17:12 PM) - Nguyễn Văn Thắng - 20/09/2018 17:18:44 PM
+- Hóa đơn điện tử thêm send mail
+HISVienphi: 1.0.4.3 - (24/09/2018 17:49:58 PM) - Nguyễn Văn Thắng - 24/09/2018 17:51:16 PM
+1. Nhập thông tin POS xong nhận thanh toán nhưng số tiền POS vẫn không nhảy vào khi thanh toán.
+HISVienphi: 1.0.4.4 - (25/09/2018 17:27:05 PM) - Nguyễn Văn Thắng - 25/09/2018 17:29:32 PM
+- Sửa form tạm ứng lỗi in hóa đơn.
+- Sửa form thanh toán ra viện  và form viện phí lỗi hóa đơn  -1.
+HISVienphi: 1.0.4.5 - (26/09/2018 17:43:51 PM) - Nguyễn Văn Thắng - 26/09/2018 17:46:55 PM
+- Fix lỗi thu tạm ứng in 2 hóa đơn +  Bị lỗi in bệnh nhân cũ
+HISVienphi: 1.0.4.6 - (28/09/2018 17:31:27 PM) - Nguyễn Văn Thắng - 28/09/2018 17:33:05 PM
+- Cập nhật lại hóa đơn điện tử.
+HISVienphi: 1.0.4.7 - (02/10/2018 16:48:51 PM) - Nguyễn Văn Thắng - 02/10/2018 16:50:30 PM
+- Sửa lại form viện phí ngoại trú theo yêu cầu mới.
+- Sửa lại form thanh toán ra viện theo yêu cầu.
+- Fix lỗi lưu sai đối tượng form thu tạm ứng.
+HISVienphi: 1.0.4.8 - (03/10/2018 16:08:29 PM) - Nguyễn Văn Thắng - 03/10/2018 17:51:10 PM
+- Sửa lưu cấp STT theo tên và ngày sinh.
+HISVienphi: 1.0.4.9 - (05/10/2018 17:18:43 PM) - Nguyễn Văn Thắng - 05/10/2018 17:20:47 PM
+- Form thu tạm ứng thêm xuất LCD khi gọi bệnh nhân.
+- Form thu ngoại trú sửa định dạng tiền ở tab tổng hợp.
+- Form thu nội trú sửa định dạng tiền tab tổng hợp, thêm hiển thị tiền bệnh nhân trả.
+HISVienphi: 1.0.5.0 - (08/10/2018 17:33:38 PM) - Nguyễn Văn Thắng - 08/10/2018 17:35:18 PM
+-- Form ngoại trú thêm khuyến mãi theo ngày sinh
+-- Danh mục khuyến mãi chi tiết thêm khuyến mãi theo ngày sinh
+-- Form hoàn trả hóa đơn fix lỗi hoàn trả không update idttrv và chi phí tháng cũ.
+HISVienphi: 1.0.5.1 - (09/10/2018 17:52:52 PM) - Nguyễn Văn Thắng - 09/10/2018 17:55:28 PM
+- Sủa lại set email HDDT.
+HISVienphi: 1.0.5.2 - (10/10/2018 17:34:16 PM) - Nguyễn Văn Thắng - 10/10/2018 17:36:47 PM
+- Fix lỗi tính tiền khuyến mãi form ngoại trú.
+- Fix lỗi form hoàn trả dữ liệu tháng cũ, hoàn trả nội trú kéo theo ngoại trú.
+
+Mã:  209, 213, 180, 215

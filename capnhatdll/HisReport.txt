@@ -1,0 +1,177 @@
+﻿1.0.0.1 - Nguyễn Thị Quang Vinh
+	- Thêm 3 form mới (Báo cáo theo thông tư 20)
+		+ rptNxt_SDT
+		+ rptThekho
+		+ rptPhieuXuatKho_PLXVII
+
+1.0.0.3 - Nguyễn Thị Quang Vinh
+	BC: làm mới báo cáo nhập xuất tồn,sử dụng thuốc(rptNxt_SDT)
+
+1.0.0.4- Nguyễn Thị Quang Vinh
+	- From frmThongKeBenhNhan thêm 2 checkBox: Nhóm theo Bệnh Nhân va Khoa
+    		+ Khi check Bệnh Nhân và nhấp Tìm, sẽ gọi hàm GetDataGroupBenhNhan(..) trong LibReport.AccessData
+    		+ Khi check Khoa và nhấp Tìm, sẽ gọi hàm GetDataGroupKhoa(..) trong LibReport.AccessData
+ 	- Thêm mới  Báo cáo xuất kho thuốc gây nghiện, thuốc hướng thần (phụ lục XI) theo năm (rptNxt_SDT2)
+
+1.0.0.5- Nguyễn Thị Quang Vinh
+
+  	- Thêm frm_DoThoiGianTheoKP: Thống kê đo thời gian theo khoa phòng.
+  	- Thêm frm_DoThoiGianTheoBN: Thống kê đo thời gian theo bệnh nhân.
+	- Sửa rptNxt_SDT (sửa lại tủ trực không lấy kho chính) 
+	- Sửa rptNxt_SDT2 (sửa lại tủ trực không lấy kho chính) 
+
+1.0.0.6- Nguyễn Thị Quang Vinh
+ 	- frmDMICD10_M38(Sửa hàm tìm kiếm không load dữ liệu lên form)
+
+1.0.0.7- Nguyễn Thị Quang Vinh
+	 - frmBCTamungChuathanhtoan( khi hoàn trả trong v_hoantra thì không lấy  v_tamung vào)
+	- frm_DanhMucThoiGian: Thêm form khai báo danh mục thời gian
+ 	- frm_DoThoiGianTheoKP: Lấy ngày giờ hướng dẫn.
+ 	- rptThekho (Làm mới form)
+
+1.0.0.8- Nguyễn Thị Quang Vinh
+ 	- frm_DoThoiGianTheoKP: Tính tổng số lần vào ca theo giờ(từ ngày đến ngày)
+	- frm_DoThoiGianTheoBN:
+		+ Gom form frm_DoThoiGianTheoBNTG vào form frm_DoThoiGianTheoBN
+		+ Hiển thị dưới dạng phút
+ 	- Sửa lại giao diện các form bị lỗi các nút in, kết thúc 
+ 		+ frmTknam
+ 		+ frmDSBacsi 
+ 		+ frmBC_thongkekhoasan  
+ 		+ frmCDVPCLS 
+ 		+ frmCongno_Tamung 
+ 		+ frmsobienlai
+ 		+ frmBcChiphi_khoa 
+ 		+ frmIn38
+ 		+ rptNxt_nhombc  
+ 		+ frmKhoaduocduyet 
+ 		+ frmDutrubosunglan2
+ 		+ frmBangnhapthuocVTYT 
+ 		+ frmTkDmThuoctrungthau 
+ 		+ frmHoatdong_Nhapkho 
+ 		+ rptBcngay
+ 		+ rptXuat_mm
+ 		+ rptThekho_TT20
+ 		+ frmsdthuocdichvu 
+ 		+ frmbcsdvatu_pttt 
+ 		+ frmSolieuxuatkho 
+ 		+ rptNXTChitiet_ck 
+ 		+ frmNhapxuatton_Toanvien 
+ 		+ frmDanhmuc_Nhombd 
+ 		+ rptThekho_new 
+ 		+ frmTT22bckhangsinh 
+ 		+ frmBienbanthanhly 
+ 		+ frmBienbanthanhly 
+	- frmBaocaothuvienphi_ct (làm tròn số tiền khi in tổng hợp)
+	- frmBKThuchiravien (làm tròn số tiền khi in tổng hợp)
+
+1.0.0.9- Nguyễn Thị Quang Vinh
+ 	-Thêm mới form Thống kê thời gian bệnh nhân (frm_DoThoiGianTheoKP2)
+ 	- frmBKThuchiravien ( fix radian thứ 5 lỗi không có table)
+ 	- frmBaocaothuvienphi_ct (fix 
+                             + chọn nhóm viện phí (lỗi không có nhomvp)
+		+ chọm loại viện phí (không có số liệu))
+
+1.0.1.0- Nguyễn Thị Quang Vinh
+ 	-Thêm mới form Tìm thông tin bệnh nhân (frmTimbenhnhan_ct)
+ 	- frmBaocaothuvienphi_ct (fix lỗi xuất excel)
+ 	- frmDoanhthu_domedic (fix lỗi k có dữ liêu)
+ 	- frmDanhthu (fix lỗi k có dữ liêu)
+ 	- rptNxt_SDT (fix   + ckecklbox kho lấy ra 3 kho
+ 		+ ckecklbox nhóm lấy ra 3 nhóm
+		+ ckecklbox lý do xuất khác lấy ra 3 lý do
+		 + ckecklbox nhóm lấy ra 3 nhóm
+                    	+ ckecklbox nhómin lấy ra nhóm in id =55 )
+
+ 	- rptThekho_TT2017 (fix  + ckecklbox kho lấy ra 3 kho
+ 		    + ckecklbox nhóm lấy ra 3 nhóm
+		    + ckecklbox lý do xuất khác lấy ra 3 lý do
+		    + ckecklbox nhóm lấy ra 3 nhóm
+                    + ckecklbox nhómin lấy ra nhóm in id =55 )
+
+ 	- rptPhieuXuatKho_PLXVII (fix  + ckecklbox kho lấy ra 3 kho
+ 		    + ckecklbox nhóm lấy ra 3 nhóm
+		    + ckecklbox lý do xuất khác lấy ra 3 lý do
+		    + ckecklbox nhóm lấy ra 3 nhóm
+                    + ckecklbox nhómin lấy ra nhóm in id =55 )
+
+ 	- rptNxt_SDT3 (fix  + ckecklbox kho lấy ra 3 kho
+ 		    + ckecklbox nhóm lấy ra 3 nhóm
+		    + ckecklbox lý do xuất khác lấy ra 3 lý do
+		    + ckecklbox nhóm lấy ra 3 nhóm
+                    + ckecklbox nhómin lấy ra nhóm in id =55 )
+HisReport -1.0.1.1- Nguyễn Thị Quang Vinh
+	 - rptPhieuXuatKho_PLXVII (xuất thêm cột số lô sản xuất,hạn dùng)
+ 	- rptNxt_SDT3 (xuất thêm cột hoạt chất và quy cách đóng gói)
+HisReport 1.0.1.2- Nguyễn Thị Quang Vinh
+ 	- rptThekho_TT2017 ( Thêm lô sx, hạn dùng)
+ 	- frmBaocaothuvienphi_ct (làm tròn số tiền)
+HisReport  1.0.1.3 Nguyễn thị quang vinh
+ 	- rptThekho_new (Tách ten thuốc và hàm lượng ra thành 2 field)
+HisReport 1.0.1.5 Nguyễn thị quang vinh
+ - frmNxt_CK (fix lỗi column donggoi không có )
+ - rptNxtth  ( không có số liệu)
+ - frmCongno_BN (nút in k có số liệu)
+ - frmXuatchuyenkho (k có số liệu)
+ - frmDutrubosunglan2 (k có số liệu)
+ - rptCongno (in  k được)
+ - rptXuatkho (k có số liệu  column SL_XSUDUNG)
+ - rptXuat_CT (k có số liệu)
+ - frmxkngay (k có số liệu)
+ - frmXemck (k có số liệu)
+ - frmXuatKhoaphong_doituong (k có số liệu)
+ - frmXuatkho_loaibn_chuyenkho (Object reference not set to an instance of an object.)
+ - exportexcel (k có số liệu)
+
+ 	- frmBKThuchiravien (fix lỗi Cannot find table 0)
+ 	- rptPhieuXuatKho_PLXVII (fix lỗi gọi 3 rpt)
+ 
+HISReport: 1.0.1.7 - (27/07/2018 16:58:02 PM) - Nguyễn Thị Quang Vinh - 27/07/2018 17:07:33 PM
+ - frmBienbankiemke ( fix lỗi k có số liệu)
+-  frmBaocNgay ( fix lỗi k có số liệu)
+-  frmXuatchuyennguon ( fix lỗi k có số liệu)
+ - frmXuat_Chuongtrinh ( fix lỗi k có số liệu)
+
+HISReport: 1.0.1.8 - (30/07/2018 17:00:49 PM) - Nguyễn Thị Quang Vinh - 30/07/2018 17:09:48 PM
+ - frmBanggiathuoc (K có số liệu)
+ - frmKho_Bbknhap ( lỗi k có table 0)
+ - frmSoPTTT (Tách PTTT ra thành PT, TT)
+ - frmBanTongKetPTTT (Tách PTTT ra thành PT, TT)
+ - frmBaoCaoPTTT (Tách PTTT ra thành PT, TT)
+
+HISReport: 1.0.1.9 - (01/08/2018 14:29:37 PM) - Nguyễn Thị Quang Vinh - 01/08/2018 17:25:52 PM
+ - frmKho_Thphieunhap (fix lỗi k có table 0)
+ - frmKho_Thphieunhap (fix lỗi k có table 0)
+ -  frmKho_Xuatkho (fix lỗi Column 'sl_20110004' does not belong to table Table)
+ -  frmKho_Xuatkhoa  (fix lỗi Column 'sl_20110004' does not belong to table Table)
+HISReport: 1.0.2.0 - (01/08/2018 17:35:25 PM) - Nguyễn Thị Quang Vinh - 01/08/2018 17:36:09 PM
+- Sửa lỗi load form đo thời gian theo bệnh nhân
+HISReport: 1.0.2.1 - (02/08/2018 17:03:47 PM) - Nguyễn Thị Quang Vinh - 02/08/2018 17:05:08 PM
+- Fix lỗi form thống kê theo thời gian
+HISReport: 1.0.4.9 - (02/10/2018 17:18:39 PM) - Nguyễn Thị Quang Vinh - 02/10/2018 17:22:03 PM
+fix lỗi frmTkCYT
+HISReport: 1.0.5.0 - (03/10/2018 17:34:51 PM) - Nguyễn Thị Quang Vinh - 03/10/2018 17:37:56 PM
+frmBaocaotienthuocsd (fix lỗi chỉ admin mới vào được)
+frmTknhiem (fix lỗi k có table 0)
+frmThnhiem (fix lỗi k có table 0)
+HISReport: 1.0.5.1 - (04/10/2018 15:15:48 PM) - Nguyễn Thị Quang Vinh - 05/10/2018 08:21:32 AM
+frmThongkechidinhs (thêm 1 số trường mới )
+frmThviemphoi (fix lỗi canot table 0)
+frmTksxh (fix lỗi canot table 0)
+HISReport: 1.0.5.2 - (05/10/2018 17:27:32 PM) - Nguyễn Thị Quang Vinh - 05/10/2018 17:31:39 PM
+rptdmtrungthau (fix lỗi lấy nhà cung cấp)
+HISReport: 1.0.5.3 - (08/10/2018 17:34:53 PM) - Nguyễn Thị Quang Vinh - 08/10/2018 17:50:34 PM
+rptNxt_CK_thang (fix lỗi cannot table 0)
+rptNxt_SDT (fix lỗi xuất excel sai với rpt)
+
+HISReport: 1.0.5.4 - (09/10/2018 17:57:32 PM) - Nguyễn Thị Quang Vinh - 09/10/2018 17:59:55 PM
+Báo cáo hoạt động nhập kho (k có số liệu)
+Báo cáo nhập xuất tồn khoa (k có số liệu)
+HISReport: 1.0.5.5 - (10/10/2018 09:30:19 AM) - Nguyễn Thị Quang Vinh - 10/10/2018 13:27:42 PM
+Thêm form mới :frmBaocaosieuam
+HISReport: 1.0.5.6 - (10/10/2018 17:41:55 PM) - Nguyễn Thị Quang Vinh - 10/10/2018 17:51:08 PM
+thêm các cột ten thuoc/cls
+HISReport: 1.0.5.7 - (11/10/2018 21:19:32 PM) - Nguyễn Thị Quang Vinh - 12/10/2018 08:24:17 AM
+xuất thêm xml field: Chuẩn đoán lúc vào viện, can nặng lúc vào viện, bệnh viện chuyển tới lúc ra viện nếu tình trạng là chuyển viện,Nhóm VP, Nhóm biệt dược, Tên vp, tên biệt dược.
+HISReport: 1.0.5.9 - (13/10/2018 20:22:12 PM) - Nguyễn Thị Quang Vinh - 15/10/2018 08:38:28 AM
+217

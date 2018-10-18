@@ -1,0 +1,69 @@
+﻿1.0.0.1 - Phạm Thế Mỹ
+	- sửa lỗi khi nhân Esc thì ẩn danh sách chọn
+
+1.0.0.2 - Phạm Thế Mỹ
+	- thêm phần khi focus selectbox nếu chưa có giá trị sẽ tự hiện thị gợi ý 
+
+1.0.0.3 - Phạm Thế Mỹ
+	- thêm sự kiện HisShowData khi click vào btn sổ xuống.
+
+1.0.0.4 - Phạm Thế Mỹ
+	- bỏ phần khi focus selectbox nếu chưa có giá trị sẽ tự hiện thị gợi ý 
+
+E00_ControlNew 1.0.0.5 Văn Hưởng
+	- usc_GiuongEdit: Ẩn hiện thông tin bệnh nhân.
+	- usc_DragControlEdit: Ẩn tất cả giường trong khoa phòng khi load lên.
+
+E00_ControlNew 1.0.0.6 Văn Hưởng
+	- usc_DragControlEdit: Thêm thuộc tính ẩn hiện tiêu đề
+
+E00_ControlNew 1.0.0.7 Phạm Thế Mỹ
+	- usc_Luoi: Thêm usc_luoi để tạo bảng cho bệnh án điện tử.
+
+E00_ControlNew 1.0.0.8 - Phạm Thế Mỹ
+	- add class cls_Caculator dùng để tính toán và sửa lỗi selectbox tìm nhìu lần không chạy.
+
+E00_ControlNew 1.0.0.9 Văn Hưởng
+	- usc_DragControlEdit: Thêm trạng thái giường lên tiêu đề.
+
+E00_ControlNew 1.0.0.10 - Phạm Thế Mỹ
+	- Sửa usc_Luoi tinh toan được
+	- usc_SelectBox: Sửa lỗi không load được data.
+E00_ControlNew 1.0.0.11 - Phạm Thế Mỹ
+	- usc_SelectBox: merger lỗi ko load được data của hưởng và lỗi select nhìu lần bị mất
+E00_ControlNew  - 1.0.0.12 Văn Hưởng
+	- usc_DragControlEdit: Thêm thuộc tính isLoad
+E00_ControlNew  - 1.0.0.14  Phạm Thế Mỹ
+	- usc_SelectBox: sửa lỗi thuộc tính showmin
+E00_ControlNew  - 1.0.0.15  Phạm Thế Mỹ
+	- usc_SelectBox: bỏ thuộc tính showmin
+E00_ControlNew: 1.0.0.18 - (25/07/2018 17:50:58 PM) - Phạm Thế Mỹ - 26/07/2018 16:07:59 PM
+-Test
+E00_ControlNew: 1.0.0.19 - (25/07/2018 17:50:58 PM) - Phạm Thế Mỹ - 26/07/2018 16:48:38 PM
+- USC_Selectbox: Sửa lỗi set mã và set tên 
+E00_ControlNew: 1.0.0.20 - (02/08/2018 17:33:04 PM) - Phạm Thế Mỹ - 03/08/2018 09:57:22 AM
+- chỉnh mặc định show min =10 và không được phép nhỏ hơn 10
+E00_ControlNew: 1.0.0.21 - (06/08/2018 09:42:29 AM) - Nguyễn Thanh Tín - 06/08/2018 09:45:42 AM
+- Cập nhật Control select box
+E00_ControlNew: 1.0.0.22 - (06/08/2018 10:22:24 AM) - Nguyễn Thanh Tín - 06/08/2018 10:22:45 AM
+- Cập nhật Selectbox
+E00_ControlNew: 1.0.0.23 - (04/08/2018 11:42:30 AM) - Phạm Thế Mỹ - 06/08/2018 10:59:13 AM
+- cập nhật TA_MessageBox mới
+E00_ControlNew: 1.0.0.24 - (07/08/2018 10:23:09 AM) - Phạm Thế Mỹ - 07/08/2018 14:30:47 PM
+- tối ưu hóa select box khi load nhiều dữ liệu giống nhau
+E00_ControlNew: 1.0.0.25 - (07/08/2018 14:52:31 PM) - Phạm Thế Mỹ - 07/08/2018 15:33:02 PM
+- sửa lỗi FRM
+E00_ControlNew: 1.0.0.26 - (08/08/2018 08:51:38 AM) - Nguyễn Thanh Tín - 08/08/2018 08:52:26 AM
+- Cập nhật Combobox multiple
+E00_ControlNew: 1.0.0.37 - (20/09/2018 17:38:37 PM) - Nguyễn Văn Lợi - 25/09/2018 17:53:47 PM
+usc_vaitro fix lỗi không bắt tồn tại bác sĩ và bỏ trống vai trò.
+E00_ControlNew: 1.0.0.38 - (26/09/2018 09:03:01 AM) - Nguyễn Văn Lợi - 26/09/2018 17:57:43 PM
+usc_vaitro thêm thông báo đã tồn tại bác sĩ
+E00_ControlNew: 1.0.0.39 - (28/09/2018 16:38:44 PM) - Phạm Thế Mỹ - 28/09/2018 17:47:49 PM
+- bỏ cls_Common
+E00_ControlNew: 1.0.0.40 - (28/09/2018 16:38:44 PM) - Phạm Thế Mỹ - 28/09/2018 17:59:38 PM
+cập nhật size for select list box
+E00_ControlNew: 1.0.0.41 - (28/09/2018 16:38:44 PM) - Phạm Thế Mỹ - 01/10/2018 11:46:10 AM
+SỮA LÕI SELECTBOX
+E00_ControlNew: 1.0.0.43 - (28/09/2018 16:38:44 PM) - Phạm Thế Mỹ - 02/10/2018 09:07:29 AM
+thêm phần sắp xếp sau khi tìm kiếm của select box

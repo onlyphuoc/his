@@ -1,0 +1,40 @@
+E00_Model	1.0.0.21	Nguyễn Văn Lợi	
+			+ Thêm cls_CanhBaoDoTuoi.
+			+ Thêm cls_CanhBaoCanNang.
+		
+E00_Model: 1.0.0.27 - (02/08/2018 17:33:01 PM) - Phạm Thế Mỹ - 03/08/2018 10:15:02 AM
+- 
+E00_Model: 1.0.0.43 - (25/09/2018 17:19:21 PM) - Nguyễn Văn Long - 25/09/2018 17:29:56 PM
+- Thêm mới cls_D_NGTRUCT
+- Thêm mới: cls_D_NGTRULL
+E00_Model: 1.0.0.44 - (06/09/2018 17:49:06 PM) - Võ Thanh Duy - 26/09/2018 17:21:58 PM
+update
+E00_Model: 1.0.0.45 - (26/09/2018 08:31:33 AM) - Nguyễn Văn Lợi - 26/09/2018 17:55:20 PM
+thêm cls_NS_LichLamViec và  cls_NS_LichLamViecCT
+E00_Model: 1.0.0.46 - (01/10/2018 11:49:16 AM) - Lưu Hoài Nam - 01/10/2018 11:51:45 AM
+Thêm bảng mức độ dị ứng , thêm bảng danh mục quy đổi đơn vị
+E00_Model: 1.0.0.47 - (05/10/2018 09:08:50 AM) - Nguyễn Văn Quốc - 05/10/2018 09:13:25 AM
+Thêm class: 
+cls_BHYTTHUOC
+cls_BHYTKB 
+cls_D_ChanDoan 
+cls_DauSinhTon 
+cls_DSTT 
+cls_BHYTDS
+cls_V_QuyenSo
+
+Chỉnh sửa Class: cls_DoiTuong
+E00_Model: 1.0.0.48 - (08/10/2018 11:11:50 AM) - Nguyễn Văn Quốc - 08/10/2018 11:19:04 AM
+Sữa lỗi class
+E00_Model: 1.0.0.49 - (08/10/2018 11:24:50 AM) - Phạm Thế Mỹ - 08/10/2018 11:26:42 AM
+- thêm bảng cls_PG_THEODOIGIUONG
+E00_Model: 1.0.0.50 - (08/10/2018 11:24:50 AM) - Phạm Thế Mỹ - 08/10/2018 11:34:35 AM
+Sữa tên PG_THEODOIGIUONG thành CLS_PG_THEODOIGIUONG
+E00_Model: 1.0.0.51 - (08/10/2018 11:24:50 AM) - Phạm Thế Mỹ - 08/10/2018 11:46:50 AM
+Sữa public clast CLS_PG_THEODOIGIUONG
+E00_Model: 1.0.0.52 - (08/10/2018 11:24:50 AM) - Phạm Thế Mỹ - 09/10/2018 11:56:51 AM
+THêm idTu vào bảng PG_THEODOIGIUONG
+E00_Model: 1.0.0.53 - (09/10/2018 13:41:10 PM) - Phạm Thế Mỹ - 09/10/2018 17:50:12 PM
+CẬP NHẬT BẢNG PG_DANHMUCGIUONG
+E00_Model: 1.0.0.54 - (09/10/2018 15:38:06 PM) - Nguyễn Văn Lợi - 10/10/2018 10:48:38 AM
+Thêm cls_SuCo và cls_LoaiSuCo

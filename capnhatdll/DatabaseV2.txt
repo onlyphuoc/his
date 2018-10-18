@@ -1,0 +1,22 @@
+DatabaseV2 1.0.0.39 Nguyễn Văn Lợi
+	 - Sửa cấu trúc bảng NHANVIENPTTT.
+DatabaseV2: 1.0.0.43 - (02/08/2018 10:52:39 AM) - Nguyễn Văn Lợi - 02/08/2018 10:53:22 AM
+Sưa lỗi tạo cấu trúc bảng tiếp đón
+DatabaseV2: 1.0.0.44 - (04/08/2018 09:07:54 AM) - Nguyễn Văn Thắng - 04/08/2018 09:08:42 AM
+- Bổ sung tạo số liệu viện phí.
+DatabaseV2: 1.0.0.45 - (04/08/2018 11:42:28 AM) - Phạm Thế Mỹ - 06/08/2018 10:47:01 AM
+- sữa lại control TA_MessageBox
+DatabaseV2: 1.0.0.46 - (07/08/2018 08:22:49 AM) - Phạm Thế Mỹ - 07/08/2018 08:34:25 AM
+- sửa lại cấu trúc bảng badt_benhan dư 1 dòng
+DatabaseV2: 1.0.0.64 - (07/09/2018 16:55:32 PM) - Nguyễn Văn Lợi - 18/09/2018 16:27:14 PM
+Sửa cấu trúc bảng tiếp đón.
+DatabaseV2: 1.0.0.65 - (21/09/2018 17:07:14 PM) - Lưu Hoài Nam - 21/09/2018 17:07:46 PM
+Thêm cột PARENT , NHOMPARENT vào bảng D_DMNHOM
+DatabaseV2: 1.0.0.68 - (04/09/2018 11:15:28 AM) - Võ Thanh Duy - 27/09/2018 15:51:30 PM
+Duy sửa lại bảng d_tbl_nhapct
+DatabaseV2: 1.0.0.69 - (07/09/2018 16:55:32 PM) - Nguyễn Văn Lợi - 27/09/2018 17:53:31 PM
+sửa cấu trúc bảng phucapphongmo
+DatabaseV2: 1.0.0.70 - (07/09/2018 16:55:32 PM) - Nguyễn Văn Lợi - 02/10/2018 18:05:41 PM
+Thêm cấu trúc bảng NS_LIchLamViec và NS_LichLamViecCT
+DatabaseV2: 1.0.0.71 - (07/09/2018 16:55:32 PM) - Nguyễn Văn Lợi - 09/10/2018 16:41:14 PM
+Thêm cấu trúc bảng PG_THEODOIGIUONG

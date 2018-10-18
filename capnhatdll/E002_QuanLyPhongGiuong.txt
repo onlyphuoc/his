@@ -1,0 +1,76 @@
+﻿1.0.0.1 - Bùi Văn Hưởng
+	- Thêm table đặt giường(đã hỏi anh Tuấn Anh)
+	- frm_QuanLyGiuong Sửa lỗi hiển thị bệnh nhân chờ duyệt 
+	- frm_DanhMucPhong,frm_DanhMucGiuong: sửa lỗi focus
+
+1.0.0.2 Bùi Văn Hưởng
+	- Sửa lỗi khi cập nhật E00_Base
+
+1.0.0.3 Bùi Văn Hưởng
+	- frm_QuanLyGiuong,frm_DanhSachChoDuyetTheoKhoaPhong: Thêm chức năng hủy đặt giường
+
+1.0.0.4 Bùi Văn Hưởng
+	- Sửa lỗi ngày ra để trống khi đặt giường.
+
+1.0.0.5 Bùi Văn Hưởng
+	- frm_QuanLyGiuong,frm_DatGiuong: Thêm focus khi load form.
+	
+E002_QuanLyPhongGiuong 1.0.0.6 Bùi Văn Hưởng
+	- frm_QuanLyGiuong: Hiển thị tất cả loại giường lên thanh tiêu đề(bao gồm tên và màu sắc).
+	- frm_QuanLyGiuong(tab sTIXemChiTiet): Gom nhóm giường theo loại giường theo từng khoa phòng
+	- frm_QuanLyGiuong(tab sTIGiuongTrong): Lọc tất cả giường theo loại giường 
+
+E002_QuanLyPhongGiuong  1.0.0.7 Bùi Văn Hưởng
+	- frm_QuanLyGiuong: 
+		+ Thu gọn giường
+		+ Để mặc định các giường trong khoa phải thủ nhỏ lại, không mặc định show các giường ra nữa. 
+		Người dùng muốn khoa nào show giường ra thì chọn khoa đó.
+
+E002_QuanLyPhongGiuong  1.0.0.8 Bùi Văn Hưởng
+	- frm_LoaiGiuong:
+		+ Sửa lỗi tìm kiếm.
+
+E002_QuanLyPhongGiuong   1.0.0.9 Bùi Văn Hưởng
+	- frm_QuanLyGiuong
+		+ Gom 2 tab "xem tổng thể & giường trống" thành cây gồm các cấp: Khoa phòng, Phòng, Giường
+		+ Xử lý load form nhanh hơn.
+	- frm_HuyBenhNhanDatGiuong
+		+ Hủy đặt giường một hoặc nhiều bệnh nhân.
+	- frm_DanhSachBenhNhanChoDuyet
+		+ Thêm chức năng "Chuyển bệnh nhân".
+E002_QuanLyGiuong 1.0.0.10 Bùi Văn Hưởng
+	- frm_QuanLyGiuong: Gom tab Giường trống và tab Thống kê thành tab Tình trạng giường
+E002_QuanLyGiuong 1.0.0.11 Bùi Văn Hưởng
+	- frm_DanhMucPhong: Thêm tiện ích import exel
+	- frm_DanhMucGiuong: Thêm tiện ích import exel
+E002_QuanLyGiuong 1.0.0.12 Bùi Văn Hưởng
+	- frm_DanhMucPhong: Load lại treeview khi import exel
+E002_QuanLyPhongGiuong: 1.0.0.17 - (04/08/2018 11:42:31 AM) - Phạm Thế Mỹ - 04/08/2018 11:51:55 AM
+- sửa lỗi load giường
+E002_QuanLyPhongGiuong: 1.0.0.18 - (06/08/2018 11:49:33 AM) - Phạm Thế Mỹ - 06/08/2018 11:50:46 AM
+- CẬP NHÂT TA_MessageBox MỚI
+E002_QuanLyPhongGiuong: 1.0.0.19 - (06/08/2018 11:49:33 AM) - Phạm Thế Mỹ - 07/08/2018 08:21:53 AM
+- thêm phần Thay đổi tên
+- thêm phần Hiển thị loại phòng trên thanh tiêu đề
+* thêm phần co thể chọn khoa phòng từ tab tình trạng giường
+E002_QuanLyPhongGiuong: 1.0.0.20 - (07/08/2018 14:52:33 PM) - Phạm Thế Mỹ - 08/08/2018 08:23:43 AM
+- Thêm STT phòng: tại form Tình trạng giường thêm cột STT cho các phòng
+- sửa lại chức năng xuất giường
+E002_QuanLyPhongGiuong: 1.0.0.21 - (07/08/2018 14:52:33 PM) - Phạm Thế Mỹ - 08/08/2018 09:41:29 AM
+- sửa lỗi ko cập nhật khi bệnh nhân xuất giường
+E002_QuanLyPhongGiuong: 1.0.0.31 - (10/09/2018 11:51:19 AM) - Phạm Thế Mỹ - 18/09/2018 16:22:40 PM
+- sửa lại phân quyền và danh mục phòng , danh mục giường
+E002_QuanLyPhongGiuong: 1.0.0.32 - (10/09/2018 11:51:19 AM) - Phạm Thế Mỹ - 20/09/2018 16:45:22 PM
+Sửa lỗi ver 1
+E002_QuanLyPhongGiuong: 1.0.0.33 - (10/09/2018 11:51:19 AM) - Phạm Thế Mỹ - 20/09/2018 17:54:20 PM
+- sữa lỗi đặt giường
+E002_QuanLyPhongGiuong: 1.0.0.34 - (10/09/2018 11:51:19 AM) - Phạm Thế Mỹ - 24/09/2018 15:07:45 PM
+- sữa lỗi đặt giường ko có mã bn
+E002_QuanLyPhongGiuong: 1.0.0.36 - (10/09/2018 11:51:19 AM) - Phạm Thế Mỹ - 26/09/2018 17:17:38 PM
+cập nhật sửa lỗi phòng giường
+E002_QuanLyPhongGiuong: 1.0.0.38 - (10/09/2018 11:51:19 AM) - Phạm Thế Mỹ - 27/09/2018 16:29:58 PM
+sửa lỗi tab giường trống
+E002_QuanLyPhongGiuong: 1.0.0.39 - (28/09/2018 13:40:41 PM) - Phạm Thế Mỹ - 28/09/2018 14:03:41 PM
+- sửa lỗi form xuất giường
+E002_QuanLyPhongGiuong: 1.0.0.40 - (28/09/2018 13:40:41 PM) - Phạm Thế Mỹ - 02/10/2018 16:50:49 PM
+cập nhật ver1

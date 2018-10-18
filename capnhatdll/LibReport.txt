@@ -1,0 +1,27 @@
+﻿1.0.0.1 Võ Bảo Toàn
+	Bổ sung 2 hàm trong class AccessData:
+		+ GetDataGroupBenhNhan(...): Lấy ra một DataSet bao gồm chi tiết nhập xuất khoa của từng bệnh nhân.
+		+ GetDataGroupKhoa(...): Lấy ra một DataSet bao gồm chi tiết nhập xuất khoa của từng khoa.
+
+LibReport - 1.0.0.2- Nguyễn Thị Quang Vinh
+ 	- get_Ravien_view (fix khi chọn khoa phòng k lấy lên số liệu)
+ 	- get_tondau (fix lấy số lượng tồn không đúng)
+
+LibReport 1.0.0.3- Nguyễn Thị Quang Vinh
+ 	- get_tondau (fix lỗi hạn dùng,lô sx k có số liệu)
+	 - get_nhap (fix lỗi hạn dùng,lô sx k có số liệu)
+ 	- get_xuat(fix lỗi hạn dùng,lô sx k có số liệu)
+LibReport - 1.0.0.4- Nguyễn Thị Quang Vinh
+ 	- get_tondau (thêm field hàm lượng,đơn vị)
+ 	- get_nhap (thêm field hàm lượng,đơn vị)
+ 	- get_xuat(thêm field hàm lượng,đơn vị)
+LibReport: 1.0.0.5 - (02/10/2018 17:18:16 PM) - Nguyễn Thị Quang Vinh - 02/10/2018 17:21:04 PM
+get_Ravien_view (Thêm cannanglucsanh, chandoanlucxuatvien,noichuyen)
+LibReport: 1.0.0.6 - (02/10/2018 17:38:32 PM) - Nguyễn Thị Quang Vinh - 02/10/2018 17:44:46 PM
+get_Ravien_view
+LibReport: 1.0.0.7 - (02/10/2018 18:04:29 PM) - Nguyễn Thị Quang Vinh - 02/10/2018 18:07:16 PM
+get_Ravien_view
+LibReport: 1.0.0.8 - (10/10/2018 09:29:54 AM) - Nguyễn Thị Quang Vinh - 10/10/2018 13:28:47 PM
+Thêm mới class get_Ravien_viewcu
+LibReport: 1.0.0.9 - (10/10/2018 17:40:41 PM) - Nguyễn Thị Quang Vinh - 10/10/2018 17:45:01 PM
+fix lỗi get_Ravien_viewcu

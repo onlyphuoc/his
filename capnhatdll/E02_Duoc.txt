@@ -1,0 +1,148 @@
+﻿- 1.0.0.1 - Võ Thanh Duy:
+	+ frmLoaiDanhMuc: Sửa lại kế thừa frmDanhMuc từ E00_Base thay đổi.
+	+ frmMapDanhMuc: Sửa lại kế thừa frmDanhMuc từ E00_Base thay đổi.
+
+- 1.0.0.2 - Võ Thanh Duy:
+	+ frmDMVTYT_BH: Thêm mới form
+
+- 1.0.0.3 - Võ Thanh Duy:
+	+ frmDMBD_BH: Sửa lỗi insert tên thuốc có dấu '
+
+- 1.0.0.4 - Võ Thanh Duy:
+	+ frmDMBD_BH: Lấy thêm thông tin mã thuốc, hàm lượng, hoạt chất lên.
+
+- 1.0.0.5 - Võ Bảo Toàn:
+	+ Thêm form Viện Phí Bảo hiểm (frmVienPhiBaoHiem)
+
+- 1.0.0.6 - Võ Bảo Toàn:
+	+ Thêm form Danh mục Trúng Thầu (frmDanhMucTrungThau)
+
+E02_Duoc - 1.0.0.7 - Võ Bảo Toàn:
+        	+ Chỉnh sửa lại namespace trên form frmVienPhiBaoHiem.
+
+E02_Duoc - 1.0.0.8 - Võ Bảo Toàn, Fix những lỗi/đề xuất sau:
+        	+ Form frmHopDongMuaHang: Khi đã có form nhập dm trúng thầu, form HD khi chọn nhà cc
+		, chọn số quyết định thầu sẽ tự load lên lưới những thuốc trúng thầu của cty đó
+		, khi đã chọn số quyết định thì form nhập thuốc ở dưới sẽ trắng không nhập được thuốc
+		,chỉ khi tạo hợp đồng không chọn theo quyết định thì mới load danh mục thuốc lên cho người dùng nhập.
+	+ Form frmNhap: Mỗi nhà cc sẽ có nhiều đơn hàng, theo cơ chế hoạt động của phiếu nhập hiện nay có bao nhiêu đơn hàng sẽ load lên hết
+		, sau đó chọn đơn hàng nào sẽ load thuốc, nhà cc của đơn hàng đó
+		, điều này sẽ gây khó khăn cho người dùng khi muốn muốn nhập kho thuốc của nhà cung cấp A, vì ko nhớ đc nhà cc A là đơn hàng nào. 
+
+E02_Duoc - 1.0.0.9 - Võ Thanh Duy:
+	+ frmDMBD_BH: Lấy thêm thông tin mã thuốc, hàm lượng, hoạt chất lên.
+
+E02_Duoc - 1.0.0.10 - Võ Bảo Toàn, Fix những lỗi/đề xuất sau:
+	Form frmDonHang:
+		+ khi mở form đơn đặt hàng lên,click những thuốc trong lưới không hiện lên số QĐ.
+		+ Chưa tính được thành tiền "Tổng cộng".
+		+ Trên mục này hiển thị một dòng trống - dòng này dư thừa ko có giá trị.
+		+ Đơn đặt hàng đã duyệt vẫn cho phép sửa
+	Form frmNhap:
+		+ khi mở form nhập kho lên,click những thuốc trong lưới không hiện lên số HD,nah2 cc, muốn hiện phải click sửa lưu mới hiện lên.
+
+E02_Duoc - 1.0.0.11 - Võ Bảo Toàn, Fix những lỗi/đề xuất sau:
+        	Form frmDonHang:
+		+ Bỏ cbo đề nghị mua, đưa cbo số quyết định thầu lên trước cbo hợp đồng, khi chọn nhà cc, thì sẽ load ra những số qd của nhà cc đó, sau đó chọn số qd thì load lên hợp động=> nhập thuốc, lưu ý chỉ cần chọn quyết định là nhập thuốc được, không bắt buộc phải chọn cbo hợp đồng,cbo hợp đồng chỉ load lên với mục đích theo dõi,
+		+ Mặc định khi tạo mới đơn đặt hàng sẽ tạo số phiếu trong form này nhảy tự động theo format yymmddxxxx, nếu người dùng muôn thêm các ký tự khác thì tùy người dùng
+		+ Thêm mới số phiếu >> Nhập liệu >> Lưu lại >> Số phiếu vừa thêm không load lên >> Out chương trình ra vô lại thì lên 
+		+ Chọn lại số phiếu cũ 001 >> Chọn sửa >> Chọn Thêm (để thêm sản phẩm mới) - Khi chọn sửa thì số phiếu 001 sẽ bị mất (nhưng sản phẩm A của số phiếu 001 đó vẫn còn) >> Thêm sản phẩm B vào >> Nhấn Thêm thì sản phẩm B nằm chung với sản phẩm A của phiếu 001 >> Lúc này thử nhập số phiếu cũ 001 lại (mục đích muốn thêm sản phẩm mới vào đúng số phiếu 001) thì phần mềm báo "số phiếu đã tồn tại" >> Gõ số phiếu mới 002 và lưu lại thì được >> Sau đó out chương trình ra vào lại thì số phiếu mới 002 bị mất + không có sản phẩm B vừa thêm.
+		+ Không nên cho nhập ký tự đặc biệt.
+		+ Chưa tính được thành tiền "Tổng cộng"
+		+ Tạo phiếu nhập/ bấm lưu/ chưa load phiếu mới thêm, vào danh sách phiếu/ phải tắt form mở lại mới có phiếu mới lưu.
+		+ Chọn đơn hàng 001/ bấm lưu
+. Sau đó, tắt form mở lại, chọn số phiếu 001 của đơn hàng 001 đã lưu/ không hiện đơn hàng 001
+		
+	Form frmNhap:
+		+ Mở form lần đầu, form bị nhỏ.
+
+E02_Duoc - 1.0.0.12 - Võ Bảo Toàn, Fix những lỗi/đề xuất sau:
+       	Fix cảnh báo quá tồn trên form frmHopDongMuaHang, frmDonHang.
+	Thêm cột số lượng thực nhập, số lượng còn lại trên frmNhap.
+	Thêm chức năng xác nhận nhập trên frmNhap
+
+E02_Duoc - 1.0.0.13 - Võ Bảo Toàn, Fix những lỗi/đề xuất sau:
+       	Fix chức năng xác nhận nhập trên frmNhap
+
+E02_Duoc - 1.0.0.14 - Võ Bảo Toàn, Fix những lỗi/đề xuất sau:
+       	Viết form frmPhieuXuatBan, frmDuyetDon
+
+E02_Duoc - 1.0.0.15 - Võ Bảo Toàn, Fix những lỗi/đề xuất sau:
+	Form frmDanhMucTrungThau:
+		Fix: Trong 1 quyết định, 1 đơn vị trúng thầu nhập 1 sp.
+       	Form frmHopDongMuaHang:
+		Fix lỗi chọn nhà cung cấp theo quyết định, không hiện danh sách thuốc
+	Form frmDonHang
+		Fix lỗi nhập trùng thuốc
+
+E02_Duoc - 1.0.0.16 - Võ Bảo Toàn, Fix những lỗi/đề xuất sau:
+	Form frmNhap:
+		Fix: Khi thực nhập vẫn cho sửa.
+		Fix: lấy dữ liệu dòng thứ nhất khi đã thực nhập.       	
+	Form frmDanhMucTrungThau:
+		Thêm button Import Excel.	
+E02_Duoc - 1.0.0.17 - Võ Bảo Toàn, Thực hiện các vấn đề
+	Form frmNhap:
+		Bỏ nút Thực Nhập.
+		Chỉnh nút Lưu: thêm vào kho khi có số lượng thực nhập.    	
+	Form frmDanhMucTrungThau:
+		Copy (import) từ Excel.
+		Bổ sung thêm thông tin thuốc trên lưới
+
+E02_Duoc - 1.0.0.18 - Võ Bảo Toàn, Thực hiện các vấn đề
+	Form frmNhap:		
+		Chỉnh nút Lưu: thêm vào kho khi có số lượng thực nhập.    	 (BỎ)
+		Lưu + (Đã nhập kho hoặc đã nhập kho 1 phần): thì thêm số lượng thực nhập vào kho
+		Fix lỗi:
+			- 1. Nhập SL thực nhận lớn hơn SL yêu cầu >> vẫn thêm được.
+			- 2. Khi tạo phiếu nhập kho từ đơn hàng vẫn cho phép sửa SL yêu cầu.
+	clsBUS: 
+		Tạo hàm:
+		-  GetStatuValue(): Tập hợp các giá trị trạng thái.
+		- GetStatus_TinhTrangChungTu(): Lấy các giá trị trạng thái của chứng từ.
+E02_Duoc - 1.0.0.19 - Võ Bảo Toàn, Thực hiện các vấn đề
+	Form frm_DuyetPhieuMuaHang: 
+		Trong form duyệt có 2 tab chưa duyệt và đã duyệt, bên tab chưa duyệt thì có nút duyệt, còn bên tab đã duyệt sẽ có nút thu hồi, 		khi đơn hàng chưa đc tạo phiếu nhập kho thì sẽ cho phép thu hồi,khi thu hồi sẽ nhảy qua tab chưa duyệt.
+	Form frmDonHang: 
+		Fix lỗi load thuốc theo quyết định và nhà cung cấp
+	Form frmNhap:
+		Fix lỗi số lượng còn lại, số lượng thực nhập.
+
+E02_Duoc - 1.0.0.20 - Võ Bảo Toàn, Thực hiện các vấn đề
+	Form frmDanhMucTrungThau
+		Fix: trong cùng 1 QD thầu, nhà cc A trúng thầu thuốc X thì nhà cc khác sẽ không trúng thầu thuốc đó nữa
+	Form frm_DuyetPhieuMuaHang: 
+		Thêm tên quyết định.
+	Form frmHopDongMuaHang:
+		Fix lỗi Tạo 2 quyết định QD1,QD2 đều có 2 nhà cc A, B. Nhà cc A thuốc 1, 2, nhà cc B thuốc 3,4.Khi tạo 2  hợp đồng cho nhà cc A,B từ QD1 thì số lượng đúng không có vấn đề gì xảy ra, tuy nhiên sau khi tạo HD từ QD1 tiếp tục tạo hợp đồng từ QD 2 thì sl bị âm. code kiểm tra lại.
+
+E02_Duoc - 1.0.0.21 - Võ Bảo Toàn, Fix những lỗi/đề xuất sau:
+	Form frmPhieuXuatBan:
+		Fix: 
+			1. Thêm mới phiếu >> nhập mã BN >> Enter không ra thông tin BN   
+			2. Thêm mới phiếu >> nhập mã BN >> Nhập thuốc không load lên giá
+			3. Thêm mới phiếu >> không nhập khoa không lưu được phiếu
+			4. Thêm mới phiếu >> nhập mã BN >> bấm bỏ qua >> bấm Thêm >> không xóa mã BN cũ
+ 			5. Chẩn đoán >> nhập mã ICD10 không ra tên.
+			6. Trong form có 2 nút thêm, 2 nút xóa
+E02_Duoc - 1.0.0.22 - Võ Bảo Toàn, Fix những lỗi/đề xuất sau:
+	Form frmPhieuXuatBan:
+		Fix: 
+			3. Thêm mới phiếu >> nhập thuốc >> Lưu, không biết tên report 
+				--> Tên report nằm góc trên bên trái		
+ 			5. Chẩn đoán >> nhập mã ICD10, bấm Enter không ra tên.			
+	Form frmDuyetDon
+		1. Đơn thuốc >> Tích chọn BN >> mặc định không tích bỏ chọn bên thuốc
+		2. Đơn thuốc >> Tích chọn BN >> Lưu, không thấy thuốc đã lưu
+
+
+E02_Duoc: 1.0.1.2 - (27/07/2018 17:26:41 PM) - Phạm Thế Mỹ - 30/07/2018 17:06:52 PM
+- sữa lỗi thu hồi duyệt du tru
+E02_Duoc: 1.0.1.4 - (31/07/2018 11:03:26 AM) - Nguyễn Văn Thắng - 31/07/2018 11:06:26 AM
+- Đơn đặt hàng load những phiếu không có số quyết định thầu
+E02_Duoc: 1.0.2.4 - (04/09/2018 08:54:16 AM) - Võ Thanh Duy - 19/09/2018 16:55:47 PM
+'
+E02_Duoc: 1.0.2.5 - (04/09/2018 08:54:16 AM) - Võ Thanh Duy - 01/10/2018 08:54:29 AM
+Sửa phẩn tính tỷ lệ và giá bán
+E02_Duoc: 1.0.2.6 - (09/10/2018 10:39:15 AM) - Võ Thanh Duy - 10/10/2018 15:22:51 PM
+update lại 

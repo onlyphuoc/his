@@ -1,0 +1,9 @@
+E11_QuanLyPhongGiuong: 1.0.0.0 - (09/10/2018 15:32:37 PM) - Phạm Thế Mỹ - 09/10/2018 15:33:40 PM
+DLL quản lý phòng giường áp dụng bảng mới
+
+E11_QuanLyPhongGiuong: 1.0.0.1 - (09/10/2018 15:32:37 PM) - Phạm Thế Mỹ - 09/10/2018 15:49:04 PM
+cập nhật framework 4.5.1
+E11_QuanLyPhongGiuong: 1.0.0.2 - (09/10/2018 16:28:35 PM) - Phạm Thế Mỹ - 09/10/2018 16:28:46 PM
+sữa lỗi sai só lượng tổng
+E11_QuanLyPhongGiuong: 1.0.0.3 - (09/10/2018 17:56:58 PM) - Phạm Thế Mỹ - 09/10/2018 17:57:09 PM
+CAAPJ NHATJ

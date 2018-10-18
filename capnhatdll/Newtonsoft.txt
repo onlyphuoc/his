@@ -1,0 +1,2 @@
+﻿Newtonsoft.Json - 11.0.2.21924 - Nguyễn Văn Lợi
+	 - Vì api bảo hiểm y tế cần xài phiên bản 11.0.2.21924 trong HIS.SOFT.KB

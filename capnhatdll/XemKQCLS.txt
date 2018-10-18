@@ -1,0 +1,5 @@
+﻿- 1.0.0.0: Võ Thanh Duy
+	+ Lấy code từ PO về chuyển qua database oracle.
+
+XemKQCLS - 1.0.0.1: Võ Thanh Duy
+	+ Sửa lỗi không load thông tin bệnh nhân.

@@ -1,0 +1,13 @@
+HISNgonNgu: 1.0.0.2 - (27/07/2018 11:25:57 AM) - Nguyễn Thanh Tín - 27/07/2018 11:26:32 AM
+- Thêm các thông báo cho nhập viện + format
+
+HISNgonNgu: 1.0.0.3 - (27/07/2018 11:39:46 AM) - Nguyễn Thanh Tín - 27/07/2018 17:22:56 PM
+- Cập nhật format
+HISNgonNgu: 1.0.0.4 - (01/08/2018 12:23:16 PM) - Nguyễn Thanh Tín - 01/08/2018 12:24:32 PM
+Cập Nhập
+HISNgonNgu: 1.0.0.5 - (02/08/2018 17:20:41 PM) - Nguyễn Thanh Tín - 02/08/2018 17:21:26 PM
+- Cập nhật
+HISNgonNgu: 1.0.0.6 - (08/08/2018 08:51:38 AM) - Nguyễn Thanh Tín - 08/08/2018 08:53:28 AM
+- Cập nhật thông báo nhật viện
+HISNgonNgu: 1.0.0.13 - (18/09/2018 10:00:01 AM) - Nguyễn Thanh Tín - 20/09/2018 11:12:40 AM
+- Cập nhật thông báo config

@@ -1,0 +1,2 @@
+﻿UserSothe -1.0.0.0 Nguyễn Văn Lợi	
+	- Lấy trong bin HIS cũ sử dụng trong HIS.SOFT.KB.

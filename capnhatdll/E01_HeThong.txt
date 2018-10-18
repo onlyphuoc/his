@@ -1,0 +1,14 @@
+E01_HeThong	1.0.1.19 Nguyễn Văn lợi
+		- Form frm_BADT_PHANQUYEN tối ưu tốc độ load + thêm tìm kiếm tất cả.
+E01_HeThong: 1.0.1.22 - (07/08/2018 09:40:29 AM) - Nguyễn Văn Lợi - 07/08/2018 09:41:38 AM
+Sửa lại tất cả message.
+E01_HeThong: 1.0.1.31 - (20/09/2018 14:27:06 PM) - Phạm Thế Mỹ - 20/09/2018 16:43:49 PM
+- khi user được phân quyên khi mở form phân quyền chỉ load đúng những quyền được phầ và không load user bản thân vào form phân quyền
+E01_HeThong: 1.0.1.32 - (26/09/2018 08:31:35 AM) - Nguyễn Văn Lợi - 27/09/2018 17:56:30 PM
+Form PhanQuyen thay đổi cách check quyền user.
+E01_HeThong: 1.0.1.33 - (26/09/2018 08:31:35 AM) - Nguyễn Văn Lợi - 28/09/2018 18:05:20 PM
+Form PhanQuyen thay doi cấu trúc hoạt động.
+E01_HeThong: 1.0.1.34 - (26/09/2018 08:31:35 AM) - Nguyễn Văn Lợi - 01/10/2018 17:22:45 PM
+Thêm load phân quyền theo từng quyền user có.
+E01_HeThong: 1.0.1.35 - (26/09/2018 08:31:35 AM) - Nguyễn Văn Lợi - 02/10/2018 17:18:04 PM
+Phân quyền fix lỗi load quyền theo luồng user khác admin

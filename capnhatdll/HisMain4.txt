@@ -1,0 +1,585 @@
+﻿1.0.0.18 - Phạm Thế Mỹ - 26/07/2018 16:02:53 PM
+E00_ControlNew: 1.0.0.18 - (25/07/2018 17:50:58 PM) - Phạm Thế Mỹ - 26/07/2018 16:07:59 PM
+-Test
+E00_ControlNew: 1.0.0.19 - (25/07/2018 17:50:58 PM) - Phạm Thế Mỹ - 26/07/2018 16:48:38 PM
+- USC_Selectbox: Sửa lỗi set mã và set tên 
+E02_BenhNhan: 1.0.0.1 - (26/07/2018 09:11:55 AM) - Phạm Thế Mỹ - 26/07/2018 16:52:36 PM
+- sủa lỗi in công khai thuốc
+- Thêm XML số lần của tờ điều trị hiện tại
+- sửa lỗi danh mục chi tiết mở ko được 
+HISNoiTru: 1.0.0.2 - (27/07/2018 08:23:01 AM) - Nguyễn Thanh Tín - 27/07/2018 11:24:23 AM
+- Form nhập viện + nhập khoa mới
+HISNgonNgu: 1.0.0.2 - (27/07/2018 11:25:57 AM) - Nguyễn Thanh Tín - 27/07/2018 11:26:32 AM
+- Thêm các thông báo cho nhập viện + format
+HISNoiTru: 1.0.0.3 - (27/07/2018 11:39:46 AM) - Nguyễn Thanh Tín - 27/07/2018 11:48:34 AM
+- Chỉnh sửa lỗi
+1.0.0.18 - Phạm Thế Mỹ - 27/07/2018 08:16:39 AM
+1.0.0.19 - Phạm Thế Mỹ - 27/07/2018 08:16:39 AM
+HISNoiTru: 1.0.0.4 - (27/07/2018 11:39:46 AM) - Nguyễn Thanh Tín - 27/07/2018 13:41:48 PM
+- Sửa lỗi nhập khoa
+E02_BenhNhan: 1.0.0.2 - (27/07/2018 14:27:51 PM) - Phạm Thế Mỹ - 27/07/2018 14:29:49 PM
+- Thêm lựa chọn in trang bìa bệnh án
+
+1.0.0.20 - Phạm Thế Mỹ - 27/07/2018 14:28:13 PM
+ChonFile: 1.0.0.2 - (27/07/2018 16:06:05 PM) - Nguyễn Thị Quang Vinh - 27/07/2018 16:11:22 PM
+ - Add Model mới
+HISReport: 1.0.1.7 - (27/07/2018 16:58:02 PM) - Nguyễn Thị Quang Vinh - 27/07/2018 17:07:33 PM
+ - frmBienbankiemke ( fix lỗi k có số liệu)
+-  frmBaocNgay ( fix lỗi k có số liệu)
+-  frmXuatchuyennguon ( fix lỗi k có số liệu)
+ - frmXuat_Chuongtrinh ( fix lỗi k có số liệu)
+
+HISNoiTru: 1.0.0.5 - (27/07/2018 11:39:46 AM) - Nguyễn Thanh Tín - 27/07/2018 17:22:37 PM
+- Chỉnh sửa thông tin nhập viên
+HISNgonNgu: 1.0.0.3 - (27/07/2018 11:39:46 AM) - Nguyễn Thanh Tín - 27/07/2018 17:22:56 PM
+- Cập nhật format
+1.0.0.21 - Phạm Thế Mỹ - 27/07/2018 17:16:27 PM
+HISReport: 1.0.1.8 - (30/07/2018 17:00:49 PM) - Nguyễn Thị Quang Vinh - 30/07/2018 17:09:48 PM
+ - frmBanggiathuoc (K có số liệu)
+ - frmKho_Bbknhap ( lỗi k có table 0)
+ - frmSoPTTT (Tách PTTT ra thành PT, TT)
+ - frmBanTongKetPTTT (Tách PTTT ra thành PT, TT)
+ - frmBaoCaoPTTT (Tách PTTT ra thành PT, TT)
+
+E02_BenhNhan: 1.0.0.3 - (27/07/2018 17:26:41 PM) - Phạm Thế Mỹ - 30/07/2018 17:05:02 PM
+-thêm tìm kiếm theo tên/mã bệnh nhân trong form load thuốc không phiếu
+- thêm thông tin tử vong vào report trang bìa bệnh án điện tử:
+E02_Duoc: 1.0.1.2 - (27/07/2018 17:26:41 PM) - Phạm Thế Mỹ - 30/07/2018 17:06:52 PM
+- sữa lỗi thu hồi duyệt du tru
+HISNoiTru: 1.0.0.6 - (30/07/2018 17:14:30 PM) - Nguyễn Thanh Tín - 30/07/2018 17:14:50 PM
+- Sửa lỗi
+E00_Helpers: 1.0.0.0 - (30/07/2018 17:14:30 PM) - Nguyễn Thanh Tín - 30/07/2018 17:32:43 PM
+- Các Format + hàm hỗ trợ
+1.0.0.22 - Phạm Thế Mỹ - 30/07/2018 17:02:22 PM
+E04_VienPhi: 1.0.1.5 - (31/07/2018 10:11:10 AM) - Nguyễn Văn Thắng - 31/07/2018 10:12:00 AM
+- Form giá viện phí chi tiết hiển thi tên BYT dạng view ngang.
+HISVienphi: 1.0.2.6 - (31/07/2018 10:12:39 AM) - Nguyễn Văn Thắng - 31/07/2018 10:13:27 AM
+- Thanh toán POS cảnh báo chọn hình thức thanh toán cho người dùng.
+E02_Duoc: 1.0.1.4 - (31/07/2018 11:03:26 AM) - Nguyễn Văn Thắng - 31/07/2018 11:06:27 AM
+- Đơn đặt hàng load những phiếu không có số quyết định thầu
+E02_BenhNhan: 1.0.0.4 - (31/07/2018 13:50:08 PM) - Phạm Thế Mỹ - 31/07/2018 16:45:58 PM
+- thêm thông tin trong xml report trang bìa tờ điều thịi
+- load thuốc và chỉ định của tờ điều trị theo khoa phòng của tờ điều trị
+1.0.0.23 - Phạm Thế Mỹ - 31/07/2018 16:43:05 PM
+HISNgonNgu: 1.0.0.4 - (01/08/2018 12:23:16 PM) - Nguyễn Thanh Tín - 01/08/2018 12:24:32 PM
+Cập Nhập
+HISNoiTru: 1.0.0.7 - (01/08/2018 12:23:16 PM) - Nguyễn Thanh Tín - 01/08/2018 12:24:48 PM
+- Sủa Lỗi Nhập viện
+E00_Helpers: 1.0.0.1 - (01/08/2018 12:23:15 PM) - Nguyễn Thanh Tín - 01/08/2018 12:25:10 PM
+Thêm format
+E00_Helpers: 1.0.0.2 - (01/08/2018 12:39:42 PM) - Nguyễn Thanh Tín - 01/08/2018 12:39:58 PM
+Ha phien ban
+HISReport: 1.0.1.9 - (01/08/2018 14:29:37 PM) - Nguyễn Thị Quang Vinh - 01/08/2018 17:25:52 PM
+ - frmKho_Thphieunhap (fix lỗi k có table 0)
+ - frmKho_Thphieunhap (fix lỗi k có table 0)
+ -  frmKho_Xuatkho (fix lỗi Column 'sl_20110004' does not belong to table Table)
+ -  frmKho_Xuatkhoa  (fix lỗi Column 'sl_20110004' does not belong to table Table)
+E02_BenhNhan: 1.0.0.5 - (01/08/2018 12:35:35 PM) - Phạm Thế Mỹ - 01/08/2018 17:24:55 PM
+- sửa lỗi khi tạo tờ điều trị ở khoa khác
+1.0.0.24 - Phạm Thế Mỹ - 01/08/2018 12:18:52 PM
+HISReport: 1.0.2.0 - (01/08/2018 17:35:25 PM) - Nguyễn Thị Quang Vinh - 01/08/2018 17:36:09 PM
+- Sửa lỗi load form đo thời gian theo bệnh nhân
+E00_API_VienPhi: 1.0.0.4 - (01/08/2018 17:41:40 PM) - Nguyễn Văn Thắng - 01/08/2018 17:42:04 PM
+- Sửa load combobox ngày vào viện.
+DatabaseV2: 1.0.0.43 - (02/08/2018 10:52:39 AM) - Nguyễn Văn Lợi - 02/08/2018 10:53:22 AM
+Sưa lỗi tạo cấu trúc bảng tiếp đón
+E04_VienPhi: 1.0.1.6 - (02/08/2018 15:14:00 PM) - Nguyễn Văn Thắng - 02/08/2018 15:16:12 PM
+- Sửa lại danh mục giá địch vụ.
+HISVienphi: 1.0.2.7 - (02/08/2018 15:14:21 PM) - Nguyễn Văn Thắng - 02/08/2018 15:17:02 PM
+- Form ngoại trú fix lỗi không update được trạng thái của chỉ định của những hóa đơn treo tháng trước.
+HISNoiTru: 1.0.0.8 - (02/08/2018 15:37:01 PM) - Nguyễn Thanh Tín - 02/08/2018 15:37:30 PM
+-Cập nhât dll control
+HIS.SOFT.KB: 1.0.0.32 - (02/08/2018 16:46:24 PM) - Nguyễn Văn Lợi - 02/08/2018 16:50:20 PM
+Form Khám bệnh : + Thay đổi màu giá viện phí.
+                              + Thêm nút BV01.
+                              + Thêm thời gian tiếp đón trong danh sách bệnh nhân.
+                              + Thêm giờ CLS.
+
+Form Tiếp đón :  + Mở giờ tiếp đón.
+                           + Thêm danh sách bệnh nhân đang ký online.
+
+Form frmsttngaykhu : + Fix lỗi load sai dữ liệu các combo.
+HISReport: 1.0.2.1 - (02/08/2018 17:03:47 PM) - Nguyễn Thị Quang Vinh - 02/08/2018 17:05:08 PM
+- Fix lỗi form thống kê theo thời gian
+HISNgonNgu: 1.0.0.5 - (02/08/2018 17:20:41 PM) - Nguyễn Thanh Tín - 02/08/2018 17:21:26 PM
+- Cập nhật
+1.0.0.25 - Phạm Thế Mỹ - 02/08/2018 17:09:06 PM
+HISNoiTru: 1.0.0.9 - (02/08/2018 17:20:41 PM) - Nguyễn Thanh Tín - 02/08/2018 17:21:50 PM
+- Cập nhật Du tru
+E00_Helpers: 1.0.0.3 - (02/08/2018 17:20:41 PM) - Nguyễn Thanh Tín - 02/08/2018 17:22:05 PM
+- Cập nhât
+HIS.SOFT.KB: 1.0.0.33 - (03/08/2018 09:39:43 AM) - Nguyễn Văn Lợi - 03/08/2018 09:39:54 AM
+Form TiepDon - Mở giờ tiếp đón.
+HIS.SOFT.KB: 1.0.0.34 - (03/08/2018 09:49:26 AM) - Nguyễn Văn Lợi - 03/08/2018 09:50:45 AM
+Form TiepDon - Sửa lỗi lấy show thông tin lên form khi double click bệnh nhân đăng ký online.
+E00_ControlNew: 1.0.0.20 - (02/08/2018 17:33:04 PM) - Phạm Thế Mỹ - 03/08/2018 09:57:22 AM
+- chỉnh mặc định show min =10 và không được phép nhỏ hơn 10
+BaoDong: 1.0.0.2 - (12/06/2018 09:05:40 AM) - Phạm Thế Mỹ - 03/08/2018 10:06:02 AM
+- cập nhật báo động
+E00_API: 1.0.0.23 - (02/08/2018 17:14:24 PM) - Phạm Thế Mỹ - 03/08/2018 10:11:44 AM
+- thêm api quản lý phòng giường
+E00_Bus: 1.0.0.1 - (02/08/2018 17:14:23 PM) - Phạm Thế Mỹ - 03/08/2018 10:13:02 AM
+- thêm bus_quanlyphonggiuong
+E00_Model: 1.0.0.27 - (02/08/2018 17:33:01 PM) - Phạm Thế Mỹ - 03/08/2018 10:15:02 AM
+- 
+E00_Report: 1.0.0.2 - (02/08/2018 17:14:26 PM) - Phạm Thế Mỹ - 03/08/2018 10:17:46 AM
+- thêm cls_system2_luoicongthuc
+E00_STT: 1.0.0.11 - (03/08/2018 09:57:13 AM) - Nguyễn Quốc Vạn - 03/08/2018 10:28:53 AM
+Load form gọi số hướng dẫn theo hissorf
+E00_STT: 1.0.0.12 - (03/08/2018 11:16:46 AM) - Nguyễn Quốc Vạn - 03/08/2018 11:18:14 AM
+Đổi màu button cấp số hướng dẫn
+HIS.SOFT.KB: 1.0.0.35 - (03/08/2018 11:17:04 AM) - Nguyễn Quốc Vạn - 03/08/2018 11:19:25 AM
+sửa lại form cấp số thứ tự hướng dẫn theo HISSOFT
+E00_Base: 2.0.0.9 - (03/08/2018 13:47:43 PM) - Nguyễn Văn Long - 03/08/2018 13:50:59 PM
+Thêm frm_BaoCao sử dụng chung cho các form báo cáo
+VienPhiExtension: 1.0.0.1 - (03/08/2018 15:12:55 PM) - Nguyễn Văn Thắng - 03/08/2018 15:14:18 PM
+- Bổ sung bảng BC_CONGNOLL và BC_CONGNOCT
+HIS.SOFT.KB: 1.0.0.36 - (03/08/2018 17:27:59 PM) - Nguyễn Văn Lợi - 03/08/2018 17:29:07 PM
+Form TiepDon - Fix lỗi lưu GioGoi khi bấm lưu.
+HISNoiTru: 1.0.0.11 - (04/08/2018 08:57:16 AM) - Nguyễn Văn Long - 04/08/2018 09:05:14 AM
+123
+DatabaseV2: 1.0.0.44 - (04/08/2018 09:07:54 AM) - Nguyễn Văn Thắng - 04/08/2018 09:08:42 AM
+- Bổ sung tạo số liệu viện phí.
+HISNoiTru: 1.0.0.11 - (04/08/2018 08:57:16 AM) - Nguyễn Văn Long - 04/08/2018 09:22:21 AM
+111111
+HISNoiTru: 1.0.0.12 - (04/08/2018 08:54:33 AM) - Nguyễn Thanh Tín - 04/08/2018 09:23:12 AM
+TinNT sửa lỗi form nhập viện
+HISNoiTru: 1.0.0.10 - (04/08/2018 09:25:37 AM) - Nguyễn Thanh Tín - 04/08/2018 09:28:27 AM
+- Chỉnh giao diện form nhập viện
+E04_VienPhi: 1.0.1.7 - (04/08/2018 09:39:31 AM) - Nguyễn Văn Thắng - 04/08/2018 09:41:25 AM
+- Form giá dịch vụ, cải thiện tốc độ.
+HISVienphi: 1.0.2.8 - (04/08/2018 10:29:32 AM) - Nguyễn Văn Thắng - 04/08/2018 10:31:11 AM
+- Form in hóa đơn fix lỗi cannot table 0
+E002_QuanLyPhongGiuong: 1.0.0.17 - (04/08/2018 11:42:31 AM) - Phạm Thế Mỹ - 04/08/2018 11:51:55 AM
+- sửa lỗi load giường
+1.0.0.26 - Phạm Thế Mỹ - 04/08/2018 08:57:38 AM
+E00_ControlNew: 1.0.0.21 - (06/08/2018 09:42:29 AM) - Nguyễn Thanh Tín - 06/08/2018 09:45:42 AM
+- Cập nhật Control select box
+HISNoiTru: 1.0.0.11 - (06/08/2018 09:42:29 AM) - Nguyễn Thanh Tín - 06/08/2018 09:46:14 AM
+- Cập nhật mới cho chắc ăn
+TA_MessageBox: 1.0.1.0 - (06/08/2018 10:15:15 AM) - Nguyễn Văn Long - 06/08/2018 10:16:20 AM
+Thay đổi giao diện hiển thị thông báo.
+HISNoiTru: 1.0.0.12 - (06/08/2018 10:18:43 AM) - Nguyễn Thanh Tín - 06/08/2018 10:21:19 AM
+- tự bill DLL nên cập nhật lại
+E00_ControlNew: 1.0.0.22 - (06/08/2018 10:22:24 AM) - Nguyễn Thanh Tín - 06/08/2018 10:22:45 AM
+- Cập nhật Selectbox
+E00_API: 1.0.0.24 - (06/08/2018 10:22:24 AM) - Nguyễn Thanh Tín - 06/08/2018 10:23:13 AM
+- Cập nhất API Nhập viện + hao phí
+BaoDong: 1.0.0.3 - (06/08/2018 10:36:18 AM) - Phạm Thế Mỹ - 06/08/2018 10:38:50 AM
+- cập control TA_MessageBox mới
+HISNoiTru: 1.0.0.13 - (06/08/2018 10:22:24 AM) - Nguyễn Thanh Tín - 06/08/2018 10:45:41 AM
+- Cập nhật thông báo mới
+DatabaseV2: 1.0.0.45 - (04/08/2018 11:42:28 AM) - Phạm Thế Mỹ - 06/08/2018 10:47:01 AM
+- sữa lại control TA_MessageBox
+E00_ControlNew: 1.0.0.23 - (04/08/2018 11:42:30 AM) - Phạm Thế Mỹ - 06/08/2018 10:59:13 AM
+- cập nhật TA_MessageBox mới
+E00_Report: 1.0.0.3 - (06/08/2018 11:03:49 AM) - Phạm Thế Mỹ - 06/08/2018 11:04:25 AM
+- CẬP NHÂT TA_MessageBox MỚI
+E002_QuanLyPhongGiuong: 1.0.0.18 - (06/08/2018 11:49:33 AM) - Phạm Thế Mỹ - 06/08/2018 11:50:46 AM
+- CẬP NHÂT TA_MessageBox MỚI
+TA_MessageBox: 1.0.1.1 - (06/08/2018 14:28:32 PM) - Nguyễn Văn Long - 06/08/2018 14:29:50 PM
+Sửa giao diện hiển thị thông báo
+E02_BenhNhan: 1.0.0.6 - (06/08/2018 15:36:01 PM) - Phạm Thế Mỹ - 06/08/2018 15:38:37 PM
+- CẬP NHẬT TA_MessageBox MỚI
+HIS.SOFT.KB: 1.0.0.37 - (06/08/2018 16:19:50 PM) - Nguyễn Văn Lợi - 06/08/2018 16:22:16 PM
+Form TiepDon : +  thêm chuẩn đoán,nơi giới thiệu.
+Form Khám bệnh: + load STT theo hissoft.
+E00_STT: 1.0.0.13 - (06/08/2018 17:37:02 PM) - Nguyễn Quốc Vạn - 06/08/2018 17:37:47 PM
+Thay dll TA_Mesagebox mới
+HIS.SOFT.KB: 1.0.0.38 - (06/08/2018 18:03:59 PM) - Nguyễn Văn Lợi - 06/08/2018 18:04:34 PM
+Form Khám bệnh - Set màu bệnh nhân theo cls.
+E002_QuanLyPhongGiuong: 1.0.0.19 - (06/08/2018 11:49:33 AM) - Phạm Thế Mỹ - 07/08/2018 08:21:53 AM
+- thêm phần Thay đổi tên
+- thêm phần Hiển thị loại phòng trên thanh tiêu đề
+* thêm phần co thể chọn khoa phòng từ tab tình trạng giường
+DatabaseV2: 1.0.0.46 - (07/08/2018 08:22:49 AM) - Phạm Thế Mỹ - 07/08/2018 08:34:25 AM
+- sửa lại cấu trúc bảng badt_benhan dư 1 dòng
+E02_BenhNhan: 1.0.0.8 - (07/08/2018 08:23:06 AM) - Phạm Thế Mỹ - 07/08/2018 08:51:04 AM
+- sữa lỗi TA_MessageBox icon
+- thêm khai báo table pha chế 
+10.0.0.27 - Phạm Thế Mỹ - 07/08/2018 08:37:14 AM
+E01_HeThong: 1.0.1.22 - (07/08/2018 09:40:29 AM) - Nguyễn Văn Lợi - 07/08/2018 09:41:38 AM
+Sửa lại tất cả message.
+E00_ControlNew: 1.0.0.24 - (07/08/2018 10:23:09 AM) - Phạm Thế Mỹ - 07/08/2018 14:30:47 PM
+- tối ưu hóa select box khi load nhiều dữ liệu giống nhau
+E00_Bus: 1.0.0.2 - (06/08/2018 17:25:18 PM) - Võ Thanh Duy - 07/08/2018 15:00:40 PM
+Thêm hàm GetDanhSachBanhNhanChoXuatVien
+E00_API: 1.0.0.25 - (06/08/2018 17:25:19 PM) - Võ Thanh Duy - 07/08/2018 15:01:19 PM
+Thêm hàm GetDanhSachBenhNhanChoXuatVien trong api_BenhNhan
+E00_ControlNew: 1.0.0.25 - (07/08/2018 14:52:31 PM) - Phạm Thế Mỹ - 07/08/2018 15:33:02 PM
+- sửa lỗi FRM
+E02_BenhNhan: 1.0.0.9 - (06/08/2018 17:25:43 PM) - Võ Thanh Duy - 07/08/2018 17:30:45 PM
+Sửa form Tái khám lỗi thêm thuốc không được.
+HIS.SOFT.KB: 1.0.0.39 - (07/08/2018 17:46:04 PM) - Nguyễn Văn Lợi - 07/08/2018 17:46:22 PM
+Form khám bệnh :  thay doi màu theo CLS.
+E00_STT: 1.0.0.14 - (08/08/2018 08:20:23 AM) - Nguyễn Quốc Vạn - 08/08/2018 08:21:58 AM
+Xuất XML in chung repot của hissofft
+HIS.SOFT.KB: 1.0.0.40 - (08/08/2018 08:22:58 AM) - Nguyễn Văn Lợi - 08/08/2018 08:23:35 AM
+Form TiepDon : thay doi tabindex.
+E002_QuanLyPhongGiuong: 1.0.0.20 - (07/08/2018 14:52:33 PM) - Phạm Thế Mỹ - 08/08/2018 08:23:43 AM
+- Thêm STT phòng: tại form Tình trạng giường thêm cột STT cho các phòng
+- sửa lại chức năng xuất giường
+E00_API: 1.0.0.26 - (08/08/2018 08:51:38 AM) - Nguyễn Thanh Tín - 08/08/2018 08:51:57 AM
+- Cập nhật hao phí
+E00_ControlNew: 1.0.0.26 - (08/08/2018 08:51:38 AM) - Nguyễn Thanh Tín - 08/08/2018 08:52:26 AM
+- Cập nhật Combobox multiple
+E00_Helpers: 1.0.0.5 - (08/08/2018 08:51:38 AM) - Nguyễn Thanh Tín - 08/08/2018 08:52:56 AM
+- Cập nhật  format
+HISNgonNgu: 1.0.0.6 - (08/08/2018 08:51:38 AM) - Nguyễn Thanh Tín - 08/08/2018 08:53:28 AM
+- Cập nhật thông báo nhật viện
+HISNoiTru: 1.0.0.14 - (08/08/2018 08:51:38 AM) - Nguyễn Thanh Tín - 08/08/2018 08:53:43 AM
+- Caph nhật nội trú
+1.0.0.28 - Phạm Thế Mỹ - 08/08/2018 08:21:47 AM
+E00_API: 1.0.0.27 - (08/08/2018 09:09:43 AM) - Nguyễn Thanh Tín - 08/08/2018 09:11:30 AM
+- Cập nhật phòng giường
+HISNoiTru: 1.0.0.15 - (08/08/2018 09:09:43 AM) - Nguyễn Thanh Tín - 08/08/2018 09:12:35 AM
+- Cập nhật size min form
+HIS.SOFT.KB: 1.0.0.41 - (08/08/2018 09:23:10 AM) - Nguyễn Văn Lợi - 08/08/2018 09:23:38 AM
+Form Kham benh : fix loi thay doi mau danh sach benh nhan.
+E00_Base: 2.0.0.10 - (08/08/2018 09:31:47 AM) - Nguyễn Văn Long - 08/08/2018 09:33:31 AM
+Sửa thông báo chuẩn
+QuanLyTaiSan: 1.0.0.24 - (08/08/2018 09:31:47 AM) - Nguyễn Văn Long - 08/08/2018 09:33:47 AM
+Sửa thông báo chuẩn
+E00_Common: 1.0.0.2 - (08/08/2018 09:41:09 AM) - Nguyễn Văn Long - 08/08/2018 09:41:59 AM
+Thêm Get_MaMoi
+E00_API: 1.0.0.28 - (08/08/2018 09:43:00 AM) - Nguyễn Thanh Tín - 08/08/2018 09:44:33 AM
+- Cập nhật api tài sản(Mr.Long)
+E002_QuanLyPhongGiuong: 1.0.0.21 - (07/08/2018 14:52:33 PM) - Phạm Thế Mỹ - 08/08/2018 09:41:29 AM
+- sửa lỗi ko cập nhật khi bệnh nhân xuất giường
+E00_Helpers: 1.0.0.6 - (08/08/2018 10:46:40 AM) - Nguyễn Thanh Tín - 08/08/2018 10:52:56 AM
+- Cập nhật Event báo động cho Lợi.
+ICSharpCode.SharpZipLib: 0.86.0.518 - (29/08/2018 14:43:23 PM) - Nguyễn Thanh Tín - 18/09/2018 11:31:57 AM
+- Tạo file Zip
+E00_Helpers: 1.0.0.21 - (18/09/2018 10:00:01 AM) - Nguyễn Thanh Tín - 18/09/2018 11:34:20 AM
+- Cập nhật thêm hàm tạo file zip
+HISVienphi: 1.0.3.9 - (18/09/2018 16:20:21 PM) - Nguyễn Văn Thắng - 18/09/2018 16:22:33 PM
+- Sửa lại tra cứu thông tin bệnh nhân.
+- Thêm in hóa đơn điện tử cho form thu ngoại trú và thu nội trú.
+E002_QuanLyPhongGiuong: 1.0.0.31 - (10/09/2018 11:51:19 AM) - Phạm Thế Mỹ - 18/09/2018 16:22:40 PM
+- sửa lại phân quyền và danh mục phòng , danh mục giường
+E00_API_VienPhi: 1.0.0.8 - (18/09/2018 16:24:39 PM) - Nguyễn Văn Thắng - 18/09/2018 16:24:55 PM
+- Sửa lại hàm load chi phí
+HIS.SOFT.KB: 1.0.0.70 - (18/09/2018 15:57:08 PM) - Nguyễn Văn Lợi - 18/09/2018 16:26:00 PM
+Form tiếp đón thêm lưu stt theo luồng his.soft
+DatabaseV2: 1.0.0.64 - (07/09/2018 16:55:32 PM) - Nguyễn Văn Lợi - 18/09/2018 16:27:14 PM
+Sửa cấu trúc bảng tiếp đón.
+HISRIS: 1.0.1.0 - (04/09/2018 08:36:21 AM) - Võ Thanh Duy - 18/09/2018 16:28:55 PM
+a
+1.0.0.29 - Nguyễn Văn Lợi - 18/09/2018 16:21:49 PM
+HISNoiTru: 1.0.0.23 - (18/09/2018 10:00:01 AM) - Nguyễn Thanh Tín - 19/09/2018 09:35:49 AM
+- Cập nhật form Config 
+E02_Duoc: 1.0.2.4 - (04/09/2018 08:54:16 AM) - Võ Thanh Duy - 19/09/2018 16:55:47 PM
+'
+E04_VienPhi: 1.0.2.1 - (19/09/2018 17:39:38 PM) - Nguyễn Văn Thắng - 19/09/2018 17:41:41 PM
+- Bổ sung form:  Cập nhật loại hóa đơn theo đối tượng
+- Bổ sung form: Cập nhạt giá theo đối tượng
+HISVienphi: 1.0.4.0 - (19/09/2018 17:40:07 PM) - Nguyễn Văn Thắng - 19/09/2018 17:42:17 PM
+- Cập nhật lại URL server hóa đơn điện tử
+VienPhiExtension: 1.0.0.4 - (19/09/2018 17:40:25 PM) - Nguyễn Văn Thắng - 19/09/2018 17:42:44 PM
+- Bổ sung field Email trong btdbn
+E00_API_VienPhi: 1.0.0.9 - (19/09/2018 17:55:35 PM) - Nguyễn Văn Thắng - 19/09/2018 17:56:31 PM
+- Sủa lại load báo cáo công nợ bệnh nhân.
+HIS.SOFT.KB: 1.0.0.71 - (18/09/2018 15:57:08 PM) - Nguyễn Văn Lợi - 19/09/2018 18:01:35 PM
+Form Tiếp đón: thêm email khách hàng.
+1.0.0.30 - Nguyễn Văn Lợi - 19/09/2018 18:00:54 PM
+HISNgonNgu: 1.0.0.13 - (18/09/2018 10:00:01 AM) - Nguyễn Thanh Tín - 20/09/2018 11:12:40 AM
+- Cập nhật thông báo config
+NPOI.Util: 1.2.1.0 - (18/09/2018 10:00:02 AM) - Nguyễn Thanh Tín - 20/09/2018 11:19:02 AM
+- Export Excel
+E01_HeThong: 1.0.1.31 - (20/09/2018 14:27:06 PM) - Phạm Thế Mỹ - 20/09/2018 16:43:49 PM
+- khi user được phân quyên khi mở form phân quyền chỉ load đúng những quyền được phầ và không load user bản thân vào form phân quyền
+E002_QuanLyPhongGiuong: 1.0.0.32 - (10/09/2018 11:51:19 AM) - Phạm Thế Mỹ - 20/09/2018 16:45:22 PM
+Sửa lỗi ver 1
+E02_BenhNhan: 1.0.0.14 - (20/09/2018 17:04:33 PM) - Nguyễn Văn Lợi - 20/09/2018 17:17:22 PM
+Hoi Chan Sua loi khi luu hoi chan nhan vien khong qua duyet lich PTTT.
+E04_VienPhi: 1.0.2.2 - (20/09/2018 17:16:42 PM) - Nguyễn Văn Thắng - 20/09/2018 17:18:11 PM
+- FIx lại lỗi sửa giá trên datagridview
+HISVienphi: 1.0.4.1 - (20/09/2018 17:17:12 PM) - Nguyễn Văn Thắng - 20/09/2018 17:18:44 PM
+- Hóa đơn điện tử thêm send mail
+HIS.SOFT.KB: 1.0.0.72 - (18/09/2018 15:57:08 PM) - Nguyễn Văn Lợi - 20/09/2018 17:22:55 PM
+Form Khám bệnh sửa lỗi gọi stt khi gọi 2 phòng cùng lúc.
+1.0.0.30 - Nguyễn Văn Lợi - 20/09/2018 17:15:55 PM
+E002_QuanLyPhongGiuong: 1.0.0.33 - (10/09/2018 11:51:19 AM) - Phạm Thế Mỹ - 20/09/2018 17:54:20 PM
+- sữa lỗi đặt giường
+E00_STT: 1.0.0.25 - (20/09/2018 17:52:51 PM) - Nguyễn Quốc Vạn - 20/09/2018 17:54:50 PM
+Fix lỗi không hiện bác sỹ lên LCD, gọi bệnh nhân ở 2 phòng trên 1 LCD không được
+HISRIS: 1.0.1.1 - (04/09/2018 08:36:21 AM) - Võ Thanh Duy - 21/09/2018 16:01:48 PM
+Cập nhật lại form frmChonloai
+QuanLyHoSoBenhAn: 1.0.0.5 - (21/09/2018 11:41:05 AM) - Nguyễn Quốc Vạn - 21/09/2018 16:51:48 PM
+Thay số lưu trữ khi lưu hs
+DatabaseV2: 1.0.0.65 - (21/09/2018 17:07:14 PM) - Lưu Hoài Nam - 21/09/2018 17:07:46 PM
+Thêm cột PARENT , NHOMPARENT vào bảng D_DMNHOM
+E00_API: 1.0.0.41 - (14/09/2018 15:35:39 PM) - Nguyễn Văn Lợi - 24/09/2018 10:18:46 AM
+api_VienPhi Sửa lỗi load sai tiền hàm Load_DichVu.
+HIS.SOFT.KB: 1.0.0.73 - (24/09/2018 10:19:13 AM) - Nguyễn Văn Lợi - 24/09/2018 10:20:04 AM
+form khám bệnh fix lỗi load chậm khi chọn bệnh nhân.
+HIS.SOFT.KB: 1.0.0.74 - (24/09/2018 10:19:13 AM) - Nguyễn Văn Lợi - 24/09/2018 10:49:30 AM
+form Khám bệnh fix lỗi hiện thị sai tiền trên form.
+E00_STT: 1.0.0.26 - (24/09/2018 10:47:46 AM) - Nguyễn Quốc Vạn - 24/09/2018 10:49:41 AM
+Fix lổi nút đồng ý bị đè lên selectbox
+1.0.0.31 - Nguyễn Văn Lợi - 24/09/2018 09:52:23 AM
+E00_STT: 1.0.0.27 - (24/09/2018 11:01:27 AM) - Nguyễn Quốc Vạn - 24/09/2018 11:02:47 AM
+Chuyển màn hình thì khu vực và bác sĩ chuyển theo
+
+HIS.SOFT.KB: 1.0.0.75 - (24/09/2018 11:09:26 AM) - Nguyễn Văn Lợi - 24/09/2018 11:43:27 AM
+Form khám bệnh fix lỗi giao diện chưa load lại khi chọn tab chỉ định.
+E002_QuanLyPhongGiuong: 1.0.0.34 - (10/09/2018 11:51:19 AM) - Phạm Thế Mỹ - 24/09/2018 15:07:45 PM
+- sữa lỗi đặt giường ko có mã bn
+E02_BenhNhan: 1.0.0.15 - (21/09/2018 08:23:00 AM) - Nguyễn Văn Lợi - 24/09/2018 17:48:50 PM
+Form Page_main phan hoi chan them filter theo ngay va trang thai.
+HISVienphi: 1.0.4.3 - (24/09/2018 17:49:58 PM) - Nguyễn Văn Thắng - 24/09/2018 17:51:16 PM
+1. Nhập thông tin POS xong nhận thanh toán nhưng số tiền POS vẫn không nhảy vào khi thanh toán.
+HIS.SOFT.KB: 1.0.0.76 - (24/09/2018 11:09:26 AM) - Nguyễn Văn Lợi - 24/09/2018 17:52:39 PM
+Form Kham Benh fix loi khong doi mau khi  chon lich su
+1.0.0.32 - Nguyễn Văn Lợi - 24/09/2018 09:52:23 AM
+E00_Access: 1.0.0.0 - (25/09/2018 17:22:02 PM) - Nguyễn Văn Long - 25/09/2018 17:24:01 PM
+test
+HISVienphi: 1.0.4.4 - (25/09/2018 17:27:05 PM) - Nguyễn Văn Thắng - 25/09/2018 17:29:32 PM
+- Sửa form tạm ứng lỗi in hóa đơn.
+- Sửa form thanh toán ra viện  và form viện phí lỗi hóa đơn  -1.
+E00_Model: 1.0.0.43 - (25/09/2018 17:19:21 PM) - Nguyễn Văn Long - 25/09/2018 17:29:56 PM
+- Thêm mới cls_D_NGTRUCT
+- Thêm mới: cls_D_NGTRULL
+E02_BenhNhan: 1.0.0.16 - (21/09/2018 08:23:00 AM) - Nguyễn Văn Lợi - 25/09/2018 17:52:37 PM
+Form Page_main phần hội chẩn sửa lỗi fix  và giao diện.
+E00_ControlNew: 1.0.0.37 - (20/09/2018 17:38:37 PM) - Nguyễn Văn Lợi - 25/09/2018 17:53:47 PM
+usc_vaitro fix lỗi không bắt tồn tại bác sĩ và bỏ trống vai trò.
+HIS.SOFT.KB: 1.0.0.77 - (24/09/2018 11:09:26 AM) - Nguyễn Văn Lợi - 25/09/2018 17:55:34 PM
+Form khám bệnh fix lỗi chưa định dạng màu khi bấm vào lịch sử.
+1.0.0.37 - Nguyễn Văn Lợi - 25/09/2018 17:51:56 PM
+E00_Bus: 1.0.0.4 - (29/08/2018 11:56:14 AM) - Võ Thanh Duy - 26/09/2018 09:07:53 AM
+Thêm bus_BaoCao
+E002_QuanLyPhongGiuong: 1.0.0.36 - (10/09/2018 11:51:19 AM) - Phạm Thế Mỹ - 26/09/2018 17:17:38 PM
+cập nhật sửa lỗi phòng giường
+E00_Model: 1.0.0.44 - (06/09/2018 17:49:06 PM) - Võ Thanh Duy - 26/09/2018 17:21:58 PM
+update
+HISVienphi: 1.0.4.5 - (26/09/2018 17:43:51 PM) - Nguyễn Văn Thắng - 26/09/2018 17:46:55 PM
+- Fix lỗi thu tạm ứng in 2 hóa đơn +  Bị lỗi in bệnh nhân cũ
+HIS.SOFT.KB: 1.0.0.78 - (24/09/2018 11:09:26 AM) - Nguyễn Văn Lợi - 26/09/2018 17:53:14 PM
+Form Duyệt lịch PTTT đổi bảng lưu lịch làm việc bác sĩ
+E00_Model: 1.0.0.45 - (26/09/2018 08:31:33 AM) - Nguyễn Văn Lợi - 26/09/2018 17:55:20 PM
+thêm cls_NS_LichLamViec và  cls_NS_LichLamViecCT
+E00_API: 1.0.0.42 - (26/09/2018 08:31:34 AM) - Nguyễn Văn Lợi - 26/09/2018 17:56:28 PM
+api_PhongMo sửa lại bảng lưu duyệt lịch PTTT.
+E00_ControlNew: 1.0.0.38 - (26/09/2018 09:03:01 AM) - Nguyễn Văn Lợi - 26/09/2018 17:57:43 PM
+usc_vaitro thêm thông báo đã tồn tại bác sĩ
+E02_BenhNhan: 1.0.0.17 - (26/09/2018 09:23:37 AM) - Nguyễn Văn Lợi - 26/09/2018 18:00:39 PM
+Form Page_main phần Hội chẩn và tường trình thêm danh sách bác sĩ đã hội chẩn vào danh sách tường trình.
+Sửa lỗi load sai bênh nhân hội chẩn và tường trình.
+1.0.0.37 - Nguyễn Văn Lợi - 26/09/2018 17:52:41 PM
+E00_Bus: 1.0.0.5 - (27/09/2018 09:41:45 AM) - Nguyễn Quốc Vạn - 27/09/2018 09:42:16 AM
+Thêm bus_BaoCao
+DatabaseV2: 1.0.0.68 - (04/09/2018 11:15:28 AM) - Võ Thanh Duy - 27/09/2018 15:51:31 PM
+Duy sửa lại bảng d_tbl_nhapct
+E002_QuanLyPhongGiuong: 1.0.0.38 - (10/09/2018 11:51:19 AM) - Phạm Thế Mỹ - 27/09/2018 16:29:58 PM
+sửa lỗi tab giường trống
+E00_STT: 1.0.0.28 - (27/09/2018 17:42:21 PM) - Nguyễn Quốc Vạn - 27/09/2018 17:43:30 PM
+Fix lỗi hiển thị lcd theo dòng
+DatabaseV2: 1.0.0.69 - (07/09/2018 16:55:32 PM) - Nguyễn Văn Lợi - 27/09/2018 17:53:31 PM
+sửa cấu trúc bảng phucapphongmo
+E00_API: 1.0.0.43 - (26/09/2018 08:31:34 AM) - Nguyễn Văn Lợi - 27/09/2018 17:55:05 PM
+api_PhongMo sửa lại cách lấy dữ liệu Báo cao phụ cấp bác sỹ.
+E01_HeThong: 1.0.1.32 - (26/09/2018 08:31:35 AM) - Nguyễn Văn Lợi - 27/09/2018 17:56:30 PM
+Form PhanQuyen thay đổi cách check quyền user.
+E02_BenhNhan: 1.0.0.18 - (26/09/2018 09:23:37 AM) - Nguyễn Văn Lợi - 27/09/2018 17:58:23 PM
+Form Page_Main phần hội chẩn fix lỗi lọc bệnh nhân sai ngày.
+HIS.SOFT.KB: 1.0.0.79 - (27/09/2018 17:36:02 PM) - Nguyễn Văn Lợi - 27/09/2018 18:00:28 PM
+Form BaoCaoPhuCapPhongMo fix lỗi load tiền phụ cấp.
+1.0.0.38 - Nguyễn Văn Lợi - 27/09/2018 17:52:07 PM
+E002_QuanLyPhongGiuong: 1.0.0.39 - (28/09/2018 13:40:41 PM) - Phạm Thế Mỹ - 28/09/2018 14:03:41 PM
+- sửa lỗi form xuất giường
+E00_API: 1.0.0.44 - (26/09/2018 10:26:04 AM) - Nguyễn Thanh Tín - 28/09/2018 16:22:04 PM
+- Thêm hàm trong IAPI
+HISVienphi: 1.0.4.6 - (28/09/2018 17:31:27 PM) - Nguyễn Văn Thắng - 28/09/2018 17:33:05 PM
+- Cập nhật lại hóa đơn điện tử.
+E00_ControlNew: 1.0.0.39 - (28/09/2018 16:38:44 PM) - Phạm Thế Mỹ - 28/09/2018 17:47:49 PM
+- bỏ cls_Common
+E00_ControlNew: 1.0.0.40 - (28/09/2018 16:38:44 PM) - Phạm Thế Mỹ - 28/09/2018 17:59:38 PM
+cập nhật size for select list box
+E01_HeThong: 1.0.1.33 - (26/09/2018 08:31:35 AM) - Nguyễn Văn Lợi - 28/09/2018 18:05:20 PM
+Form PhanQuyen thay doi cấu trúc hoạt động.
+HIS.SOFT.KB: 1.0.0.80 - (28/09/2018 16:53:12 PM) - Nguyễn Văn Lợi - 28/09/2018 18:06:20 PM
+From TiepDon thêm danh sách bệnh nhân tái khám.
+E02_BenhNhan: 1.0.0.19 - (26/09/2018 09:23:37 AM) - Nguyễn Văn Lợi - 28/09/2018 18:09:48 PM
+Fix lỗi lấy nhân viên tường trình
+1.0.0.39 - Nguyễn Văn Lợi - 28/09/2018 18:09:20 PM
+E02_Duoc: 1.0.2.5 - (04/09/2018 08:54:16 AM) - Võ Thanh Duy - 01/10/2018 08:54:29 AM
+Sửa phẩn tính tỷ lệ và giá bán
+E00_ControlNew: 1.0.0.41 - (28/09/2018 16:38:44 PM) - Phạm Thế Mỹ - 01/10/2018 11:46:10 AM
+SỮA LÕI SELECTBOX
+E00_Model: 1.0.0.46 - (01/10/2018 11:49:16 AM) - Lưu Hoài Nam - 01/10/2018 11:51:45 AM
+Thêm bảng mức độ dị ứng , thêm bảng danh mục quy đổi đơn vị
+E01_HeThong: 1.0.1.34 - (26/09/2018 08:31:35 AM) - Nguyễn Văn Lợi - 01/10/2018 17:22:45 PM
+Thêm load phân quyền theo từng quyền user có.
+E00_STT: 1.0.0.29 - (01/10/2018 17:41:56 PM) - Nguyễn Quốc Vạn - 01/10/2018 17:43:24 PM
+Thay đổi vị trí các vùng của usc_Dòng
+1.0.0.39 - Nguyễn Văn Lợi - 01/10/2018 17:21:58 PM
+E00_ControlNew: 1.0.0.43 - (28/09/2018 16:38:44 PM) - Phạm Thế Mỹ - 02/10/2018 09:07:29 AM
+thêm phần sắp xếp sau khi tìm kiếm của select box
+E04_Duoc: 1.0.0.0 - (02/10/2018 10:17:26 AM) - Lưu Hoài Nam - 02/10/2018 10:18:32 AM
+Làm form Danh mục thuốc ,vật tư y tế 
+form Danh mục kèm theo của thuốc 
+form Danh mục tương đương của thuốc
+form Danh mục tương tác của thuốc 
+form Liều dùng tối đa của thuốc
+form Nhóm vật tư ,thuốc
+form Quy đổi đơn vị của thuốc
+
+E04_Duoc: 1.0.0.1 - (02/10/2018 10:58:15 AM) - Lưu Hoài Nam - 02/10/2018 10:59:02 AM
+Thêm liên kết form nhóm vật tư và quy đổi vào danh mục thuốc , vật tư
+E03_Duoc: 1.0.0.2 - (02/10/2018 13:08:04 PM) - Lưu Hoài Nam - 02/10/2018 13:08:28 PM
+Sửa tên DLL
+HISVienphi: 1.0.4.7 - (02/10/2018 16:48:51 PM) - Nguyễn Văn Thắng - 02/10/2018 16:50:30 PM
+- Sửa lại form viện phí ngoại trú theo yêu cầu mới.
+- Sửa lại form thanh toán ra viện theo yêu cầu.
+- Fix lỗi lưu sai đối tượng form thu tạm ứng.
+E002_QuanLyPhongGiuong: 1.0.0.40 - (28/09/2018 13:40:41 PM) - Phạm Thế Mỹ - 02/10/2018 16:50:49 PM
+cập nhật ver1
+HIS.SOFT.KB: 1.0.0.81 - (02/10/2018 17:15:10 PM) - Nguyễn Văn Lợi - 02/10/2018 17:16:52 PM
+thêm chức năng kiểm tra bệnh nhân.
+E01_HeThong: 1.0.1.35 - (26/09/2018 08:31:35 AM) - Nguyễn Văn Lợi - 02/10/2018 17:18:04 PM
+Phân quyền fix lỗi load quyền theo luồng user khác admin
+E02_BenhNhan: 1.0.0.20 - (26/09/2018 09:23:37 AM) - Nguyễn Văn Lợi - 02/10/2018 17:20:15 PM
+fix lỗi load nhân viên tường trình.
+1.0.0.40 - Nguyễn Văn Lợi - 02/10/2018 13:35:33 PM
+LibReport: 1.0.0.5 - (02/10/2018 17:18:16 PM) - Nguyễn Thị Quang Vinh - 02/10/2018 17:21:04 PM
+get_Ravien_view (Thêm cannanglucsanh, chandoanlucxuatvien,noichuyen)
+HISReport: 1.0.4.9 - (02/10/2018 17:18:39 PM) - Nguyễn Thị Quang Vinh - 02/10/2018 17:22:03 PM
+fix lỗi frmTkCYT
+LibReport: 1.0.0.6 - (02/10/2018 17:38:32 PM) - Nguyễn Thị Quang Vinh - 02/10/2018 17:44:46 PM
+get_Ravien_view
+E03_Duoc: 1.0.0.3 - (02/10/2018 17:42:50 PM) - Lưu Hoài Nam - 02/10/2018 17:48:30 PM
+Sửa tên
+E03_Duoc: 1.0.0.4 - (02/10/2018 17:57:41 PM) - Lưu Hoài Nam - 02/10/2018 17:58:06 PM
+Sửa
+DatabaseV2: 1.0.0.70 - (07/09/2018 16:55:32 PM) - Nguyễn Văn Lợi - 02/10/2018 18:05:41 PM
+Thêm cấu trúc bảng NS_LIchLamViec và NS_LichLamViecCT
+LibReport: 1.0.0.7 - (02/10/2018 18:04:29 PM) - Nguyễn Thị Quang Vinh - 02/10/2018 18:07:16 PM
+get_Ravien_view
+E00_API: 1.0.0.45 - (26/09/2018 08:31:34 AM) - Nguyễn Văn Lợi - 03/10/2018 09:01:30 AM
+Sửa lỗi không load tiền phụ cấp bác sĩ.
+HISReport: 1.0.5.0 - (03/10/2018 17:34:51 PM) - Nguyễn Thị Quang Vinh - 03/10/2018 17:37:56 PM
+frmBaocaotienthuocsd (fix lỗi chỉ admin mới vào được)
+frmTknhiem (fix lỗi k có table 0)
+frmThnhiem (fix lỗi k có table 0)
+HISVienphi: 1.0.4.8 - (03/10/2018 16:08:29 PM) - Nguyễn Văn Thắng - 03/10/2018 17:51:10 PM
+- Sửa lưu cấp STT theo tên và ngày sinh.
+HIS.SOFT.KB: 1.0.0.82 - (02/10/2018 17:15:10 PM) - Nguyễn Văn Lợi - 03/10/2018 17:54:09 PM
+fix lỗi Load Form Khai Báo Phụ cấp mỗ
+1.0.0.41 - Nguyễn Văn Lợi - 03/10/2018 17:51:49 PM
+E00_Control: 1.0.0.2 - (04/10/2018 08:18:44 AM) -  - 04/10/2018 08:20:42 AM
+- Thêm control his_ListBox
+- Thêm control his_TreeView
+E00_Control: 1.0.0.3 - (04/10/2018 08:30:50 AM) -  - 04/10/2018 08:31:25 AM
+- Fix his_TreeView
+HISReport: 1.0.5.1 - (04/10/2018 15:15:48 PM) - Nguyễn Thị Quang Vinh - 05/10/2018 08:21:32 AM
+frmThongkechidinhs (thêm 1 số trường mới )
+frmThviemphoi (fix lỗi canot table 0)
+frmTksxh (fix lỗi canot table 0)
+E00_Model: 1.0.0.47 - (05/10/2018 09:08:50 AM) - Nguyễn Văn Quốc - 05/10/2018 09:13:25 AM
+Thêm class: 
+cls_BHYTTHUOC
+cls_BHYTKB 
+cls_D_ChanDoan 
+cls_DauSinhTon 
+cls_DSTT 
+cls_BHYTDS
+cls_V_QuyenSo
+
+Chỉnh sửa Class: cls_DoiTuong
+HISVienphi: 1.0.4.9 - (05/10/2018 17:18:43 PM) - Nguyễn Văn Thắng - 05/10/2018 17:20:47 PM
+- Form thu tạm ứng thêm xuất LCD khi gọi bệnh nhân.
+- Form thu ngoại trú sửa định dạng tiền ở tab tổng hợp.
+- Form thu nội trú sửa định dạng tiền tab tổng hợp, thêm hiển thị tiền bệnh nhân trả.
+E00_STT: 1.0.0.30 - (05/10/2018 17:22:49 PM) - Nguyễn Quốc Vạn - 05/10/2018 17:24:34 PM
+Lưu lịch sử cấp số.
+LCD: chọn nơi gọi số trước khi hiện LCD
+HISReport: 1.0.5.2 - (05/10/2018 17:27:32 PM) - Nguyễn Thị Quang Vinh - 05/10/2018 17:31:40 PM
+rptdmtrungthau (fix lỗi lấy nhà cung cấp)
+1.0.0.42 - Nguyễn Văn Lợi - 05/10/2018 17:21:35 PM
+E00_Model: 1.0.0.48 - (08/10/2018 11:11:50 AM) - Nguyễn Văn Quốc - 08/10/2018 11:19:04 AM
+Sữa lỗi class
+E00_Model: 1.0.0.49 - (08/10/2018 11:24:50 AM) - Phạm Thế Mỹ - 08/10/2018 11:26:42 AM
+- thêm bảng cls_PG_THEODOIGIUONG
+E00_Model: 1.0.0.50 - (08/10/2018 11:24:50 AM) - Phạm Thế Mỹ - 08/10/2018 11:34:35 AM
+Sữa tên PG_THEODOIGIUONG thành CLS_PG_THEODOIGIUONG
+E00_Model: 1.0.0.51 - (08/10/2018 11:24:50 AM) - Phạm Thế Mỹ - 08/10/2018 11:46:50 AM
+Sữa public clast CLS_PG_THEODOIGIUONG
+HIS_Scanner: 1.0.0.0 - (08/10/2018 15:15:48 PM) - Nguyễn Văn Lợi - 08/10/2018 15:20:00 PM
+Tạo mới
+HISRIS: 1.0.1.3 - (02/10/2018 10:46:26 AM) - Võ Thanh Duy - 08/10/2018 16:54:04 PM
+Thêm cảnh báo tiền tạm ứng trong form frmCLS
+QuanLyHoSoBenhAn: 1.0.0.6 - (08/10/2018 17:33:44 PM) - Nguyễn Quốc Vạn - 08/10/2018 17:34:58 PM
+Lấy thêm ICD tử vong đối với bệnh nhân tử vong
+HISVienphi: 1.0.5.0 - (08/10/2018 17:33:38 PM) - Nguyễn Văn Thắng - 08/10/2018 17:35:18 PM
+-- Form ngoại trú thêm khuyến mãi theo ngày sinh
+-- Danh mục khuyến mãi chi tiết thêm khuyến mãi theo ngày sinh
+-- Form hoàn trả hóa đơn fix lỗi hoàn trả không update idttrv và chi phí tháng cũ.
+VienPhiExtension: 1.0.0.5 - (08/10/2018 17:36:26 PM) - Nguyễn Văn Thắng - 08/10/2018 17:36:36 PM
+-- Thêm cột NGAY, THANG, NAM vào bảng V_CHINHSACHGIAKMCT
+HISReport: 1.0.5.3 - (08/10/2018 17:34:53 PM) - Nguyễn Thị Quang Vinh - 08/10/2018 17:50:34 PM
+rptNxt_CK_thang (fix lỗi cannot table 0)
+rptNxt_SDT (fix lỗi xuất excel sai với rpt)
+
+E00_Model: 1.0.0.52 - (08/10/2018 11:24:50 AM) - Phạm Thế Mỹ - 09/10/2018 11:56:51 AM
+THêm idTu vào bảng PG_THEODOIGIUONG
+E11_QuanLyPhongGiuong: 1.0.0.0 - (09/10/2018 15:32:37 PM) - Phạm Thế Mỹ - 09/10/2018 15:33:40 PM
+DLL quản lý phòng giường áp dụng bảng mới
+E11_QuanLyPhongGiuong: 1.0.0.1 - (09/10/2018 15:32:37 PM) - Phạm Thế Mỹ - 09/10/2018 15:49:04 PM
+cập nhật framework 4.5.1
+E11_QuanLyPhongGiuong: 1.0.0.2 - (09/10/2018 16:28:35 PM) - Phạm Thế Mỹ - 09/10/2018 16:28:46 PM
+sữa lỗi sai só lượng tổng
+DatabaseV2: 1.0.0.71 - (07/09/2018 16:55:32 PM) - Nguyễn Văn Lợi - 09/10/2018 16:41:14 PM
+Thêm cấu trúc bảng PG_THEODOIGIUONG
+E00_Model: 1.0.0.53 - (09/10/2018 13:41:10 PM) - Phạm Thế Mỹ - 09/10/2018 17:50:12 PM
+CẬP NHẬT BẢNG PG_DANHMUCGIUONG
+E04_VienPhi: 1.0.2.3 - (09/10/2018 17:53:16 PM) - Nguyễn Văn Thắng - 09/10/2018 17:54:46 PM
+- Bổ sung thêm biến _maTuongDuong và _maTT50  cho Thông tư 50. 
+HISVienphi: 1.0.5.1 - (09/10/2018 17:52:52 PM) - Nguyễn Văn Thắng - 09/10/2018 17:55:28 PM
+- Sủa lại set email HDDT.
+HIS.SOFT.KB: 1.0.0.84 - (09/10/2018 17:01:35 PM) - Nguyễn Văn Lợi - 09/10/2018 17:55:58 PM
+fix lỗi bị chèn số trên datagrid cls.
+E11_QuanLyPhongGiuong: 1.0.0.3 - (09/10/2018 17:56:58 PM) - Phạm Thế Mỹ - 09/10/2018 17:57:09 PM
+CAAPJ NHATJ
+HISReport: 1.0.5.4 - (09/10/2018 17:57:32 PM) - Nguyễn Thị Quang Vinh - 09/10/2018 17:59:55 PM
+Báo cáo hoạt động nhập kho (k có số liệu)
+Báo cáo nhập xuất tồn khoa (k có số liệu)
+E00_Model: 1.0.0.54 - (09/10/2018 15:38:06 PM) - Nguyễn Văn Lợi - 10/10/2018 10:48:38 AM
+Thêm cls_SuCo và cls_LoaiSuCo
+HISReport: 1.0.5.5 - (10/10/2018 09:30:19 AM) - Nguyễn Thị Quang Vinh - 10/10/2018 13:27:42 PM
+Thêm form mới :frmBaocaosieuam
+LibReport: 1.0.0.8 - (10/10/2018 09:29:54 AM) - Nguyễn Thị Quang Vinh - 10/10/2018 13:28:47 PM
+Thêm mới class get_Ravien_viewcu
+LibDal: 1.0.0.7 - (29/08/2018 13:38:30 PM) - Võ Thanh Duy - 10/10/2018 13:40:28 PM
+Sửa hàm get_Vaongoaitru
+E02_BenhNhan: 1.0.0.21 - (04/09/2018 08:57:37 AM) - Võ Thanh Duy - 10/10/2018 13:41:20 PM
+Thêm form frmTkvaont
+E02_Duoc: 1.0.2.6 - (09/10/2018 10:39:15 AM) - Võ Thanh Duy - 10/10/2018 15:22:51 PM
+update lại 
+HIS.SOFT.KB: 1.0.0.86 - (10/10/2018 13:36:51 PM) - Nguyễn Văn Lợi - 10/10/2018 17:22:31 PM
+Thêm nghề nghiệp cha,mẹ Form Tiếp đón,
+Thêm Cảnh báo thuốc không hưởng BHYT.
+HISVienphi: 1.0.5.2 - (10/10/2018 17:34:16 PM) - Nguyễn Văn Thắng - 10/10/2018 17:36:47 PM
+- Fix lỗi tính tiền khuyến mãi form ngoại trú.
+- Fix lỗi form hoàn trả dữ liệu tháng cũ, hoàn trả nội trú kéo theo ngoại trú.
+
+Mã:  209, 213, 180, 215
+LibReport: 1.0.0.9 - (10/10/2018 17:40:41 PM) - Nguyễn Thị Quang Vinh - 10/10/2018 17:45:02 PM
+fix lỗi get_Ravien_viewcu
+HISReport: 1.0.5.6 - (10/10/2018 17:41:55 PM) - Nguyễn Thị Quang Vinh - 10/10/2018 17:51:08 PM
+thêm các cột ten thuoc/cls
+E00_API: 1.0.0.47 - (10/10/2018 11:02:19 AM) - Nguyễn Văn Lợi - 12/10/2018 08:14:18 AM
+thêm api_SuCo
+E12_SuCo: 1.0.0.0 - (10/10/2018 13:36:43 PM) - Nguyễn Văn Lợi - 12/10/2018 08:15:30 AM
+Tạo mới
+HISReport: 1.0.5.7 - (11/10/2018 21:19:32 PM) - Nguyễn Thị Quang Vinh - 12/10/2018 08:24:17 AM
+xuất thêm xml field: Chuẩn đoán lúc vào viện, can nặng lúc vào viện, bệnh viện chuyển tới lúc ra viện nếu tình trạng là chuyển viện,Nhóm VP, Nhóm biệt dược, Tên vp, tên biệt dược.
+E12_SuCo: 1.0.0.1 - (15/10/2018 08:29:15 AM) - Nguyễn Văn Lợi - 15/10/2018 08:29:27 AM
+Tạo mới
+HIS.SOFT.KB: 1.0.0.88 - (15/10/2018 08:23:36 AM) - Nguyễn Văn Lợi - 15/10/2018 08:32:49 AM
+Form tiếp đón  + Bấm mới, nghề nghiệp cha mẹ chưa load lại
+                        + sdt của mẹ mất và được thay bằng số cmnd.
+
+
+HISReport: 1.0.5.9 - (13/10/2018 20:22:12 PM) - Nguyễn Thị Quang Vinh - 15/10/2018 08:38:28 AM
+217

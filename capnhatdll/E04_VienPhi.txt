@@ -1,0 +1,43 @@
+﻿E04_VienPhi	1.0.0.1 - Nguyễn Văn Thắng
+	- frmDMGiaVienPhi sửa lại giao diện và lưu dữ liệu xuống database như của HISSOFT
+E04_VienPhi	1.0.0.2 - Nguyễn Văn Thắng
+	- frmDMGiaVienPhi sửa lại giao diện theo yêu cầu của triển khai.
+	- frmChonvpct bổ sung thêm form chọn viện phí chi tiết.
+	- frmGoivpct bổ sung thêm form gói viện phí chi tiết.
+E04_VienPhi	1.0.0.3 - Nguyễn Văn Thắng
+	- frmGiaVP fix lỗi không mở được giao diện form.
+	- frmChonvpct  thêm icon cho nút lưu, bỏ qua, kết thúc.
+	- frmGoivpct  thêm icon cho nút đồng ý, kết thúc.
+E04_VienPhi	1.0.0.4 - Nguyễn Văn Thắng
+	- Cập nhật lại các dll mới nhất cho ProJect.
+E04_VienPhi	1.0.0.5 - Nguyễn Văn Thắng
+	- frmDMGiaVienPhi fix lỗi update dữ liệu.
+	- frmGiaVP Sửa lại giao diện bỏ listbox thông báo lỗi.
+E04_VienPhi	1.0.0.6 - Nguyễn Văn Thắng
+	- frmGiaVP sửa lỗi, danh sách chờ viện phí không cho load những viện phí không còn dùng nữa.
+E04_VienPhi	1.0.0.7 - Nguyễn Văn Thắng
+	- frmDMGiaVienPhi sửa lỗi khi lưu, cho ẩn STT QD, TT31/BYT, sửa: Mã dùng chung (TT50) = Mã dùng chung, Mã tương đương = TT5084.
+E04_VienPhi	1.0.0.8 - Nguyễn Văn Thắng
+	- frmGiaVP fix lỗi sửa giá viện phí dạng view ngang.
+E04_VienPhi	1.0.0.9 - Nguyễn Văn Thắng
+	- frmGiaVP fix lỗi sửa giá viện phí dạng view dọc.
+E04_VienPhi	1.0.1.0 - Nguyễn Văn Thắng
+	- frmGiaVP Thêm cột mã phụ
+	- frm_DanhMucCSGia Thêm ngày vào viện.
+E04_VienPhi	1.0.1.1 - Nguyễn Văn Thắng
+	- frmGiaVP Fix lỗi load lại dữ liệu dọc sau khi sửa dòng.
+E04_VienPhi	1.0.1.2 - Nguyễn Văn Thắng
+	- frmDMGiaVienPhi sửa: Mã dTT50 = MaTT50, Mã tương đương = TT5084, Mã dùng chung = Madungchung
+E04_VienPhi: 1.0.1.5 - (31/07/2018 10:11:10 AM) - Nguyễn Văn Thắng - 31/07/2018 10:12:00 AM
+- Form giá viện phí chi tiết hiển thi tên BYT dạng view ngang.
+E04_VienPhi: 1.0.1.6 - (02/08/2018 15:14:00 PM) - Nguyễn Văn Thắng - 02/08/2018 15:16:12 PM
+- Sửa lại danh mục giá địch vụ.
+E04_VienPhi: 1.0.1.7 - (04/08/2018 09:39:31 AM) - Nguyễn Văn Thắng - 04/08/2018 09:41:25 AM
+- Form giá dịch vụ, cải thiện tốc độ.
+E04_VienPhi: 1.0.2.1 - (19/09/2018 17:39:38 PM) - Nguyễn Văn Thắng - 19/09/2018 17:41:41 PM
+- Bổ sung form:  Cập nhật loại hóa đơn theo đối tượng
+- Bổ sung form: Cập nhạt giá theo đối tượng
+E04_VienPhi: 1.0.2.2 - (20/09/2018 17:16:42 PM) - Nguyễn Văn Thắng - 20/09/2018 17:18:11 PM
+- FIx lại lỗi sửa giá trên datagridview
+E04_VienPhi: 1.0.2.3 - (09/10/2018 17:53:16 PM) - Nguyễn Văn Thắng - 09/10/2018 17:54:46 PM
+- Bổ sung thêm biến _maTuongDuong và _maTT50  cho Thông tư 50. 

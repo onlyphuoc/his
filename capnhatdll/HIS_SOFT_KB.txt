@@ -1,0 +1,4 @@
+HIS.SOFT.KB	1.0.0.29	 Nguyễn Văn Lợi
+		- Thêm form frmCanhBaoDoTuoi(chức năng cảnh báo tương tác thuốc theo độ tuổi).
+		- Thêm form frmCanhBaoCanNang (chức năng cảnh báo tương tác thuốc theo cân nặng).
+		

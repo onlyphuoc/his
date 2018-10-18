@@ -1,0 +1,9 @@
+﻿- 1.0.0.0: Võ Thanh Duy
+	+ frm_CauHinhMauInSieuAm : Viết chi tiết 2 hàm Xuất XML và load combobox Load_MauIn.
+
+- 1.0.0.1: Võ Thanh Duy
+	+ frm_CauHinhMauInSieuAm : Sửa xuất XML hết tất cả thông số.
+E00_Report: 1.0.0.2 - (02/08/2018 17:14:26 PM) - Phạm Thế Mỹ - 03/08/2018 10:17:46 AM
+- thêm cls_system2_luoicongthuc
+E00_Report: 1.0.0.3 - (06/08/2018 11:03:49 AM) - Phạm Thế Mỹ - 06/08/2018 11:04:25 AM
+- CẬP NHÂT TA_MessageBox MỚI

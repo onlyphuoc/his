@@ -1,0 +1,15 @@
+E00_Helpers: 1.0.0.0 - (30/07/2018 17:14:30 PM) - Nguyễn Thanh Tín - 30/07/2018 17:32:43 PM
+- Các Format + hàm hỗ trợ
+
+E00_Helpers: 1.0.0.1 - (01/08/2018 12:23:15 PM) - Nguyễn Thanh Tín - 01/08/2018 12:25:10 PM
+Thêm format
+E00_Helpers: 1.0.0.2 - (01/08/2018 12:39:42 PM) - Nguyễn Thanh Tín - 01/08/2018 12:39:58 PM
+Ha phien ban
+E00_Helpers: 1.0.0.3 - (02/08/2018 17:20:41 PM) - Nguyễn Thanh Tín - 02/08/2018 17:22:04 PM
+- Cập nhât
+E00_Helpers: 1.0.0.5 - (08/08/2018 08:51:38 AM) - Nguyễn Thanh Tín - 08/08/2018 08:52:56 AM
+- Cập nhật  format
+E00_Helpers: 1.0.0.6 - (08/08/2018 10:46:40 AM) - Nguyễn Thanh Tín - 08/08/2018 10:52:56 AM
+- Cập nhật Event báo động cho Lợi.
+E00_Helpers: 1.0.0.21 - (18/09/2018 10:00:01 AM) - Nguyễn Thanh Tín - 18/09/2018 11:34:20 AM
+- Cập nhật thêm hàm tạo file zip

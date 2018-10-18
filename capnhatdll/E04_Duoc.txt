@@ -1,0 +1,12 @@
+E04_Duoc: 1.0.0.0 - (02/10/2018 10:17:26 AM) - Lưu Hoài Nam - 02/10/2018 10:18:32 AM
+Làm form Danh mục thuốc ,vật tư y tế 
+form Danh mục kèm theo của thuốc 
+form Danh mục tương đương của thuốc
+form Danh mục tương tác của thuốc 
+form Liều dùng tối đa của thuốc
+form Nhóm vật tư ,thuốc
+form Quy đổi đơn vị của thuốc
+
+
+E04_Duoc: 1.0.0.1 - (02/10/2018 10:58:15 AM) - Lưu Hoài Nam - 02/10/2018 10:59:02 AM
+Thêm liên kết form nhóm vật tư và quy đổi vào danh mục thuốc , vật tư

@@ -1,0 +1,25 @@
+﻿E00_STT 1.0.0.10: Nguyễn Quốc Vạn 20/07/2018 
+	frm_QuetDSCho: Không lưu maql khi cấp số
+
+E00_STT: 1.0.0.11 - (03/08/2018 09:57:13 AM) - Nguyễn Quốc Vạn - 03/08/2018 10:28:53 AM
+Load form gọi số hướng dẫn theo hissorf
+E00_STT: 1.0.0.12 - (03/08/2018 11:16:46 AM) - Nguyễn Quốc Vạn - 03/08/2018 11:18:14 AM
+Đổi màu button cấp số hướng dẫn
+E00_STT: 1.0.0.13 - (06/08/2018 17:37:02 PM) - Nguyễn Quốc Vạn - 06/08/2018 17:37:47 PM
+Thay dll TA_Mesagebox mới
+E00_STT: 1.0.0.14 - (08/08/2018 08:20:23 AM) - Nguyễn Quốc Vạn - 08/08/2018 08:21:58 AM
+Xuất XML in chung repot của hissofft
+E00_STT: 1.0.0.25 - (20/09/2018 17:52:51 PM) - Nguyễn Quốc Vạn - 20/09/2018 17:54:50 PM
+Fix lỗi không hiện bác sỹ lên LCD, gọi bệnh nhân ở 2 phòng trên 1 LCD không được
+E00_STT: 1.0.0.26 - (24/09/2018 10:47:46 AM) - Nguyễn Quốc Vạn - 24/09/2018 10:49:41 AM
+Fix lổi nút đồng ý bị đè lên selectbox
+E00_STT: 1.0.0.27 - (24/09/2018 11:01:27 AM) - Nguyễn Quốc Vạn - 24/09/2018 11:02:47 AM
+Chuyển màn hình thì khu vực và bác sĩ chuyển theo
+
+E00_STT: 1.0.0.28 - (27/09/2018 17:42:21 PM) - Nguyễn Quốc Vạn - 27/09/2018 17:43:30 PM
+Fix lỗi hiển thị lcd theo dòng
+E00_STT: 1.0.0.29 - (01/10/2018 17:41:56 PM) - Nguyễn Quốc Vạn - 01/10/2018 17:43:24 PM
+Thay đổi vị trí các vùng của usc_Dòng
+E00_STT: 1.0.0.30 - (05/10/2018 17:22:49 PM) - Nguyễn Quốc Vạn - 05/10/2018 17:24:34 PM
+Lưu lịch sử cấp số.
+LCD: chọn nơi gọi số trước khi hiện LCD

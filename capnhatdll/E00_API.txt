@@ -1,0 +1,26 @@
+	E00_API 1.0.0.20 Nguyễn Văn Lợi	
+			- Thêm hàm GetDanhSachLichPTTT trong class api_PhongMo
+E00_API: 1.0.0.23 - (02/08/2018 17:14:24 PM) - Phạm Thế Mỹ - 03/08/2018 10:11:44 AM
+- thêm api quản lý phòng giường
+E00_API: 1.0.0.24 - (06/08/2018 10:22:24 AM) - Nguyễn Thanh Tín - 06/08/2018 10:23:13 AM
+- Cập nhất API Nhập viện + hao phí
+E00_API: 1.0.0.25 - (06/08/2018 17:25:19 PM) - Võ Thanh Duy - 07/08/2018 15:01:19 PM
+Thêm hàm GetDanhSachBenhNhanChoXuatVien trong api_BenhNhan
+E00_API: 1.0.0.26 - (08/08/2018 08:51:38 AM) - Nguyễn Thanh Tín - 08/08/2018 08:51:57 AM
+- Cập nhật hao phí
+E00_API: 1.0.0.27 - (08/08/2018 09:09:43 AM) - Nguyễn Thanh Tín - 08/08/2018 09:11:30 AM
+- Cập nhật phòng giường
+E00_API: 1.0.0.28 - (08/08/2018 09:43:00 AM) - Nguyễn Thanh Tín - 08/08/2018 09:44:33 AM
+- Cập nhật api tài sản(Mr.Long)
+E00_API: 1.0.0.41 - (14/09/2018 15:35:39 PM) - Nguyễn Văn Lợi - 24/09/2018 10:18:46 AM
+api_VienPhi Sửa lỗi load sai tiền hàm Load_DichVu.
+E00_API: 1.0.0.42 - (26/09/2018 08:31:34 AM) - Nguyễn Văn Lợi - 26/09/2018 17:56:28 PM
+api_PhongMo sửa lại bảng lưu duyệt lịch PTTT.
+E00_API: 1.0.0.43 - (26/09/2018 08:31:34 AM) - Nguyễn Văn Lợi - 27/09/2018 17:55:05 PM
+api_PhongMo sửa lại cách lấy dữ liệu Báo cao phụ cấp bác sỹ.
+E00_API: 1.0.0.44 - (26/09/2018 10:26:04 AM) - Nguyễn Thanh Tín - 28/09/2018 16:22:04 PM
+- Thêm hàm trong IAPI
+E00_API: 1.0.0.45 - (26/09/2018 08:31:34 AM) - Nguyễn Văn Lợi - 03/10/2018 09:01:30 AM
+Sửa lỗi không load tiền phụ cấp bác sĩ.
+E00_API: 1.0.0.47 - (10/10/2018 11:02:19 AM) - Nguyễn Văn Lợi - 12/10/2018 08:14:18 AM
+thêm api_SuCo
